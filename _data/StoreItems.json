@@ -18203,7 +18203,1015 @@
       "category": "Misc",
       "defname": "Zombrella",
       "price": 3333
+    },
+    {
+      "abr": "churchdossier:bishopclass",
+      "category": "Church dossiers",
+      "defname": "Milira_InformationLetterI_MilianClass_Bishop",
+      "price": -10
+    },
+    {
+      "abr": "churchdossier:bishopi",
+      "category": "Church dossiers",
+      "defname": "Milira_InformationLetterI_MilianClass_BishopI",
+      "price": -10
+    },
+    {
+      "abr": "churchdossier:bishopii",
+      "category": "Church dossiers",
+      "defname": "Milira_InformationLetterI_MilianClass_BishopII",
+      "price": 67
+    },
+    {
+      "abr": "churchdossier:captain",
+      "category": "Church dossiers",
+      "defname": "Milira_InformationLetterI_MilianClass_PawnIV",
+      "price": -10
+    },
+    {
+      "abr": "churchdossier:cardinal",
+      "category": "Church dossiers",
+      "defname": "Milira_InformationLetterI_MilianClass_BishopIV",
+      "price": 67
+    },
+    {
+      "abr": "churchdossier:classpermits",
+      "category": "Church dossiers",
+      "defname": "Milira_InformationLetterI_ClassPermission",
+      "price": 67
+    },
+    {
+      "abr": "churchdossier:consul",
+      "category": "Church dossiers",
+      "defname": "Milira_InformationLetterI_MilianClass_BishopIII",
+      "price": 67
+    },
+    {
+      "abr": "churchdossier:eternalfortress",
+      "category": "Church dossiers",
+      "defname": "Milira_InformationLetterI_MilianClass_RookIV",
+      "price": -10
+    },
+    {
+      "abr": "churchdossier:guard",
+      "category": "Church dossiers",
+      "defname": "Milira_InformationLetterI_MilianClass_PawnIII",
+      "price": -10
+    },
+    {
+      "abr": "churchdossier:knighti",
+      "category": "Church dossiers",
+      "defname": "Milira_InformationLetterI_MilianClass_KnightI",
+      "price": -10
+    },
+    {
+      "abr": "churchdossier:knightii",
+      "category": "Church dossiers",
+      "defname": "Milira_InformationLetterI_MilianClass_KnightII",
+      "price": -10
+    },
+    {
+      "abr": "churchdossier:milian",
+      "category": "Church dossiers",
+      "defname": "Milira_InformationLetterI_Milian",
+      "price": 67
+    },
+    {
+      "abr": "churchdossier:milianknightclass",
+      "category": "Church dossiers",
+      "defname": "Milira_InformationLetterI_MilianClass_Knight",
+      "price": -10
+    },
+    {
+      "abr": "churchdossier:milianpawnclass",
+      "category": "Church dossiers",
+      "defname": "Milira_InformationLetterI_MilianClass_Pawn",
+      "price": -10
+    },
+    {
+      "abr": "churchdossier:milianrookclass",
+      "category": "Church dossiers",
+      "defname": "Milira_InformationLetterI_MilianClass_Rook",
+      "price": -10
+    },
+    {
+      "abr": "churchdossier:milira",
+      "category": "Church dossiers",
+      "defname": "Milira_InformationLetterI_Milira",
+      "price": -10
+    },
+    {
+      "abr": "churchdossier:outrider",
+      "category": "Church dossiers",
+      "defname": "Milira_InformationLetterI_MilianClass_KnightIII",
+      "price": 67
+    },
+    {
+      "abr": "churchdossier:paladin",
+      "category": "Church dossiers",
+      "defname": "Milira_InformationLetterI_MilianClass_KnightIV",
+      "price": -10
+    },
+    {
+      "abr": "churchdossier:pawni",
+      "category": "Church dossiers",
+      "defname": "Milira_InformationLetterI_MilianClass_PawnI",
+      "price": -10
+    },
+    {
+      "abr": "churchdossier:pawnii",
+      "category": "Church dossiers",
+      "defname": "Milira_InformationLetterI_MilianClass_PawnII",
+      "price": -10
+    },
+    {
+      "abr": "churchdossier:rooki",
+      "category": "Church dossiers",
+      "defname": "Milira_InformationLetterI_MilianClass_RookI",
+      "price": -10
+    },
+    {
+      "abr": "churchdossier:rookii",
+      "category": "Church dossiers",
+      "defname": "Milira_InformationLetterI_MilianClass_RookII",
+      "price": -10
+    },
+    {
+      "abr": "churchdossier:skyfeatheredchurch",
+      "category": "Church dossiers",
+      "defname": "Milira_InformationLetterI_ChurchIntrodction",
+      "price": -10
+    },
+    {
+      "abr": "churchdossier:solarcrystal",
+      "category": "Church dossiers",
+      "defname": "Milira_InformationLetterI_SolarCrystal",
+      "price": -10
+    },
+    {
+      "abr": "churchdossier:solarfuel",
+      "category": "Church dossiers",
+      "defname": "Milira_InformationLetterI_SunLightFuel",
+      "price": -10
+    },
+    {
+      "abr": "churchdossier:solar-forgedsteel",
+      "category": "Church dossiers",
+      "defname": "Milira_InformationLetterI_SunPlateSteel",
+      "price": -10
+    },
+    {
+      "abr": "churchdossier:striker",
+      "category": "Church dossiers",
+      "defname": "Milira_InformationLetterI_MilianClass_RookIII",
+      "price": -10
+    },
+    {
+      "abr": "churchdossier:sunbloom",
+      "category": "Church dossiers",
+      "defname": "Milira_InformationLetterI_SunLightFlower",
+      "price": -10
+    },
+    {
+      "abr": "churchdossier:sunblastfurnace",
+      "category": "Church dossiers",
+      "defname": "Milira_InformationLetterI_SunBlastFurnace",
+      "price": -10
+    },
+    {
+      "abr": "classpermit:bishop",
+      "category": "Items",
+      "defname": "Milian_NamePlate_Bishop",
+      "price": -10
+    },
+    {
+      "abr": "classpermit:king",
+      "category": "Items",
+      "defname": "Milian_NamePlate_King",
+      "price": -10
+    },
+    {
+      "abr": "classpermit:knight",
+      "category": "Items",
+      "defname": "Milian_NamePlate_Knight",
+      "price": -10
+    },
+    {
+      "abr": "classpermit:pawn",
+      "category": "Items",
+      "defname": "Milian_NamePlate_Pawn",
+      "price": -10
+    },
+    {
+      "abr": "classpermit:queen",
+      "category": "Items",
+      "defname": "Milian_NamePlate_Queen",
+      "price": -10
+    },
+    {
+      "abr": "classpermit:rook",
+      "category": "Items",
+      "defname": "Milian_NamePlate_Rook",
+      "price": -10
+    },
+    {
+      "abr": "combatdrone:emp",
+      "category": "Milira Utility",
+      "defname": "Milira_CombatDrone_EMPLauncher",
+      "price": -10
+    },
+    {
+      "abr": "combatdrone:impactparticle",
+      "category": "Milira Utility",
+      "defname": "Milira_CombatDrone_ParticleImpactBlaster",
+      "price": -10
+    },
+    {
+      "abr": "combatdrone:incendiarygrenade",
+      "category": "Milira Utility",
+      "defname": "Milira_CombatDrone_IncendiaryGrenadeLauncher",
+      "price": -10
+    },
+    {
+      "abr": "combatdrone:longrangeparticle",
+      "category": "Milira Utility",
+      "defname": "Milira_CombatDrone_LongRangeParticleBlaster",
+      "price": -10
+    },
+    {
+      "abr": "combatdrone:minigun",
+      "category": "Milira Utility",
+      "defname": "Milira_CombatDrone_MiniGun",
+      "price": -10
+    },
+    {
+      "abr": "combatdrone:quadruplerocketlauncher",
+      "category": "Milira Utility",
+      "defname": "Milira_CombatDrone_QuadrupleRocketLauncher",
+      "price": -10
+    },
+    {
+      "abr": "combatdrone:scatterparticle",
+      "category": "Milira Utility",
+      "defname": "Milira_CombatDrone_ScatterParticleBlaster",
+      "price": -10
+    },
+    {
+      "abr": "combatdrone:stunimpulse",
+      "category": "Milira Utility",
+      "defname": "Milira_CombatDrone_StunImpulseLauncher",
+      "price": -10
+    },
+    {
+      "abr": "combatplatform:energybubble",
+      "category": "Milira Utility",
+      "defname": "Milira_CombatDrone_EnergyBubble",
+      "price": -10
+    },
+    {
+      "abr": "cradol'sshadow",
+      "category": "Misc",
+      "defname": "Milira_ProjectionNode",
+      "price": -10
+    },
+    {
+      "abr": "featherthread",
+      "category": "Textiles",
+      "defname": "Milira_FeatherThread",
+      "price": 4
+    },
+    {
+      "abr": "gravitationalgrenadebelt",
+      "category": "Milira Utility",
+      "defname": "Milira_Apparel_AttractiveGrenade",
+      "price": -10
+    },
+    {
+      "abr": "handrailgun",
+      "category": "Ranged weapons",
+      "defname": "Milira_HandRailGun",
+      "price": -10
+    },
+    {
+      "abr": "knighthalberd",
+      "category": "Melee weapons",
+      "defname": "Milian_KnightHalberd",
+      "price": -10
+    },
+    {
+      "abr": "knighthammer",
+      "category": "Melee weapons",
+      "defname": "Milian_KnightHammer",
+      "price": -10
+    },
+    {
+      "abr": "knightlance",
+      "category": "Melee weapons",
+      "defname": "Milian_KnightLance",
+      "price": -10
+    },
+    {
+      "abr": "knightsword",
+      "category": "Melee weapons",
+      "defname": "Milian_KnightSword",
+      "price": -10
+    },
+    {
+      "abr": "long-rangeparticlesniperrifle",
+      "category": "Ranged weapons",
+      "defname": "Milian_ParticleLongRangeSniper",
+      "price": -10
+    },
+    {
+      "abr": "lustroussteel",
+      "category": "Raw resources",
+      "defname": "Milira_SplendidSteel",
+      "price": 4
+    },
+    {
+      "abr": "magneticrailrifle",
+      "category": "Ranged weapons",
+      "defname": "Milira_MagneticRailRifle",
+      "price": -10
+    },
+    {
+      "abr": "miliananalyticheadset",
+      "category": "Milian Overhead",
+      "defname": "Milian_BishopHeadset",
+      "price": -10
+    },
+    {
+      "abr": "milianarmoredgoggle",
+      "category": "Milian Overhead",
+      "defname": "Milian_GoggleArmored",
+      "price": -10
+    },
+    {
+      "abr": "milianbulletproofcloak",
+      "category": "Milian Middle",
+      "defname": "Milian_BishopCloak",
+      "price": 650
+    },
+    {
+      "abr": "miliancommunicationheadset",
+      "category": "Milian Overhead",
+      "defname": "Milian_KnightHeadset",
+      "price": 450
+    },
+    {
+      "abr": "miliancyclopsgateshield",
+      "category": "Milian Utility",
+      "defname": "Milian_RookShield",
+      "price": 3442
+    },
+    {
+      "abr": "milianenergystation",
+      "category": "Production",
+      "defname": "Milian_Recharger",
+      "price": -10
+    },
+    {
+      "abr": "milianfeathershield",
+      "category": "Milian Utility",
+      "defname": "Milian_FeatherShapeShield",
+      "price": 1225
+    },
+    {
+      "abr": "milianfortressarmor",
+      "category": "Milian Middle",
+      "defname": "Milian_FortressArmor",
+      "price": 6842
+    },
+    {
+      "abr": "miliangoggle",
+      "category": "Milian Overhead",
+      "defname": "Milian_Goggle",
+      "price": 162
+    },
+    {
+      "abr": "milianguardarmor",
+      "category": "Milian Middle",
+      "defname": "Milian_GuardArmor",
+      "price": 850
+    },
+    {
+      "abr": "milianguardianarmor",
+      "category": "Milian Middle",
+      "defname": "Milian_GuardianArmor",
+      "price": 1117
+    },
+    {
+      "abr": "milianhornedcrown",
+      "category": "Milian Overhead",
+      "defname": "Milian_KnightHeadsetIII",
+      "price": 1183
+    },
+    {
+      "abr": "milianknightshield",
+      "category": "Milian Utility",
+      "defname": "Milian_KnightShield",
+      "price": 858
+    },
+    {
+      "abr": "milianlightbulletproofarmor",
+      "category": "Milian Middle",
+      "defname": "Milian_LightArmor",
+      "price": 203
+    },
+    {
+      "abr": "milianlining",
+      "category": "Milian OnSkin",
+      "defname": "Milian_Lining",
+      "price": 136
+    },
+    {
+      "abr": "milianpaladinarmor",
+      "category": "Milian Middle",
+      "defname": "Milian_PaladinArmor",
+      "price": 3600
+    },
+    {
+      "abr": "milianpivotcloak",
+      "category": "Milian Middle",
+      "defname": "Milian_PivotCloak",
+      "price": 4025
+    },
+    {
+      "abr": "milianpivotheadset",
+      "category": "Milian Overhead",
+      "defname": "Milian_PivotHeadSet",
+      "price": 867
+    },
+    {
+      "abr": "milianpivotscepter",
+      "category": "Ranged weapons",
+      "defname": "Milian_PivotScepter",
+      "price": 833
+    },
+    {
+      "abr": "milianpowercore",
+      "category": "Manufactured",
+      "defname": "Milira_MilianReactor",
+      "price": -10
+    },
+    {
+      "abr": "milianrangerarmor",
+      "category": "Milian Middle",
+      "defname": "Milian_RangerArmor",
+      "price": 983
+    },
+    {
+      "abr": "milianritualstaff",
+      "category": "Ranged weapons",
+      "defname": "Milian_BishopScepter",
+      "price": 833
+    },
+    {
+      "abr": "milianrookarmor",
+      "category": "Milian Middle",
+      "defname": "Milian_RookArmor",
+      "price": 5908
+    },
+    {
+      "abr": "milianrookmask",
+      "category": "Milian Overhead",
+      "defname": "Milian_RookMask",
+      "price": 1192
+    },
+    {
+      "abr": "miliansilenthuntercloak",
+      "category": "Milian Middle",
+      "defname": "Milian_SilentHunterCloak",
+      "price": 3367
+    },
+    {
+      "abr": "miliansilenthunterhood",
+      "category": "Milian Overhead",
+      "defname": "Milian_SilentHunterHood",
+      "price": 417
+    },
+    {
+      "abr": "miliansportsheadset",
+      "category": "Milian Overhead",
+      "defname": "Milian_KnightHeadsetII",
+      "price": 933
+    },
+    {
+      "abr": "milianstalkerarmor",
+      "category": "Milian Middle",
+      "defname": "Milian_StalkerArmor",
+      "price": 5017
+    },
+    {
+      "abr": "milianstrikerarmor",
+      "category": "Milian Middle",
+      "defname": "Milian_StrikerArmor",
+      "price": 9025
+    },
+    {
+      "abr": "milianstrikerhelmet",
+      "category": "Milian Overhead",
+      "defname": "Milian_StrikerHelmet",
+      "price": 4692
+    },
+    {
+      "abr": "milira",
+      "category": "Animal",
+      "defname": "Milira_Race",
+      "price": -10
+    },
+    {
+      "abr": "miliraacademyuniform(style1)",
+      "category": "Milira OnSkin",
+      "defname": "Milira_DelicateDressA",
+      "price": 575
+    },
+    {
+      "abr": "miliraacademyuniform(style2)",
+      "category": "Milira OnSkin",
+      "defname": "Milira_DelicateDressA_II",
+      "price": 575
+    },
+    {
+      "abr": "miliraartemisarmor(assault)",
+      "category": "Milira OnSkin",
+      "defname": "Milira_ArtemisArmor",
+      "price": 10075
+    },
+    {
+      "abr": "miliraartemisarmor(defence)",
+      "category": "Milira OnSkin",
+      "defname": "Milira_ArtemisArmorII",
+      "price": 10075
+    },
+    {
+      "abr": "miliraartemiseye",
+      "category": "Milira Overhead",
+      "defname": "Milira_ArtemisHelmet",
+      "price": 5100
+    },
+    {
+      "abr": "miliraartificialwing",
+      "category": "Prosthetic",
+      "defname": "Milira_ArtificialWing",
+      "price": 417
+    },
+    {
+      "abr": "milirabionicwing",
+      "category": "Bionic",
+      "defname": "Milira_BionicWing",
+      "price": 1825
+    },
+    {
+      "abr": "milirablackbodycondress",
+      "category": "Milira OnSkin",
+      "defname": "Milira_DelicateDressC",
+      "price": 575
+    },
+    {
+      "abr": "milirabloodstainedfeather",
+      "category": "Textiles",
+      "defname": "Milira_BloodStainedFeather",
+      "price": 17
+    },
+    {
+      "abr": "miliracorsetskirt",
+      "category": "Milira OnSkin",
+      "defname": "Milira_DelicateDressE",
+      "price": 575
+    },
+    {
+      "abr": "miliradaedalusarmor",
+      "category": "Milira OnSkin",
+      "defname": "Milira_DaedalusArmor",
+      "price": 11208
+    },
+    {
+      "abr": "miliradaedaluscrown",
+      "category": "Milira Overhead",
+      "defname": "Milira_DaedalusHelmet",
+      "price": 5367
+    },
+    {
+      "abr": "miliradaedaluswings",
+      "category": "Utility",
+      "defname": "Milira_DaedalusWings",
+      "price": 5417
+    },
+    {
+      "abr": "miliradustcoat",
+      "category": "Milira Shell",
+      "defname": "Milira_Dustcoat",
+      "price": 742
+    },
+    {
+      "abr": "miliraelegancegown",
+      "category": "Milira OnSkin",
+      "defname": "Milira_DelicateDressB",
+      "price": 575
+    },
+    {
+      "abr": "miliraenergycongregator",
+      "category": "Milira Utility",
+      "defname": "Milira_ChargeAccumulatorI",
+      "price": 500
+    },
+    {
+      "abr": "miliraenergycongregatorm2",
+      "category": "Milira Utility",
+      "defname": "Milira_ChargeAccumulatorII",
+      "price": 758
+    },
+    {
+      "abr": "miliraenergycongregatorm3",
+      "category": "Milira Utility",
+      "defname": "Milira_ChargeAccumulatorIII",
+      "price": 2275
+    },
+    {
+      "abr": "miliraexpansioncapacitor",
+      "category": "Milira Utility",
+      "defname": "Milira_CapacitorII",
+      "price": 758
+    },
+    {
+      "abr": "milirafashionablecasualwear",
+      "category": "Milira OnSkin",
+      "defname": "Milira_DelicateDressD",
+      "price": 575
+    },
+    {
+      "abr": "milirafeather",
+      "category": "Textiles",
+      "defname": "Milira_Feather",
+      "price": -10
+    },
+    {
+      "abr": "miliraglorybeacon",
+      "category": "Misc",
+      "defname": "Milira_DropBeaconCluster",
+      "price": 575
+    },
+    {
+      "abr": "miliragravitytrap",
+      "category": "Security",
+      "defname": "Milira_TrapAttractive",
+      "price": 222
+    },
+    {
+      "abr": "milirameat",
+      "category": "Meat",
+      "defname": "Meat_Milira_Race",
+      "price": -10
+    },
+    {
+      "abr": "miliraminicapacitor",
+      "category": "Milira Utility",
+      "defname": "Milira_CapacitorI",
+      "price": 500
+    },
+    {
+      "abr": "miliranuclearcapacitor",
+      "category": "Milira Utility",
+      "defname": "Milira_CapacitorIII",
+      "price": 2275
+    },
+    {
+      "abr": "miliraplushberet",
+      "category": "Milira Overhead",
+      "defname": "Milira_PlushBeret",
+      "price": 236
+    },
+    {
+      "abr": "miliraplushcape",
+      "category": "Milira Shell",
+      "defname": "Milira_PlushCape",
+      "price": 321
+    },
+    {
+      "abr": "miliraportableglorybeacon",
+      "category": "Milira Utility",
+      "defname": "Milira_DropBeaconPack",
+      "price": 2608
+    },
+    {
+      "abr": "miliraportableresonator(bishop)",
+      "category": "Milira Utility",
+      "defname": "Milira_ResonatorPack_Bishop",
+      "price": 6742
+    },
+    {
+      "abr": "miliraportableresonator(knight)",
+      "category": "Milira Utility",
+      "defname": "Milira_ResonatorPack_Knight",
+      "price": 6742
+    },
+    {
+      "abr": "miliraportableresonator(pawn)",
+      "category": "Milira Utility",
+      "defname": "Milira_ResonatorPack_Pawn",
+      "price": 5742
+    },
+    {
+      "abr": "miliraportableresonator(rook)",
+      "category": "Milira Utility",
+      "defname": "Milira_ResonatorPack_Rook",
+      "price": 8075
+    },
+    {
+      "abr": "milirapsychicdefensependant",
+      "category": "Milira Utility",
+      "defname": "Milira_PsychicDefensePendant",
+      "price": 900
+    },
+    {
+      "abr": "milirarepulsiontrap",
+      "category": "Security",
+      "defname": "Milira_TrapRepulsive",
+      "price": 222
+    },
+    {
+      "abr": "miliraresonator",
+      "category": "Misc",
+      "defname": "Milira_Resonator_Pawn",
+      "price": 333
+    },
+    {
+      "abr": "miliraresonator",
+      "category": "Misc",
+      "defname": "Milira_Resonator_Knight",
+      "price": 333
+    },
+    {
+      "abr": "miliraresonator",
+      "category": "Misc",
+      "defname": "Milira_Resonator_Bishop",
+      "price": 333
+    },
+    {
+      "abr": "miliraresonator",
+      "category": "Misc",
+      "defname": "Milira_Resonator_Rook",
+      "price": 333
+    },
+    {
+      "abr": "milirashardark",
+      "category": "Misc",
+      "defname": "Milira_MilianCapsule",
+      "price": 458
+    },
+    {
+      "abr": "milirastarshipbattery",
+      "category": "Manufactured",
+      "defname": "Milira_StarshipBattery",
+      "price": 1667
+    },
+    {
+      "abr": "milirasunhat",
+      "category": "Milira Overhead",
+      "defname": "Milira_SunHat",
+      "price": 236
+    },
+    {
+      "abr": "milirasunblastfurnace",
+      "category": "Production",
+      "defname": "Milira_SunBlastFurnace",
+      "price": -10
+    },
+    {
+      "abr": "milirasunglasses",
+      "category": "Milira Overhead",
+      "defname": "Milira_Sunglasses",
+      "price": 400
+    },
+    {
+      "abr": "milirasunglasses(forehead)",
+      "category": "Milira Overhead",
+      "defname": "Milira_SunglassesII",
+      "price": 400
+    },
+    {
+      "abr": "miliratraditionalattire(style1)",
+      "category": "Milira OnSkin",
+      "defname": "Milira_BasicDressI",
+      "price": 321
+    },
+    {
+      "abr": "miliratraditionalattire(style2)",
+      "category": "Milira OnSkin",
+      "defname": "Milira_BasicDressII",
+      "price": 321
+    },
+    {
+      "abr": "miliratraditionalattire(style3)",
+      "category": "Milira OnSkin",
+      "defname": "Milira_BasicDressIII",
+      "price": 321
+    },
+    {
+      "abr": "miliratravellercloak",
+      "category": "Milira OnSkin",
+      "defname": "Milira_Cloak",
+      "price": 908
+    },
+    {
+      "abr": "miliratravellerhood",
+      "category": "Milira Overhead",
+      "defname": "Milira_Hood",
+      "price": 900
+    },
+    {
+      "abr": "milirauniversalworkbench",
+      "category": "Production",
+      "defname": "Milira_UniversalBench",
+      "price": -10
+    },
+    {
+      "abr": "miliravalkyriearmor",
+      "category": "Milira OnSkin",
+      "defname": "Milira_ValkyrArmor",
+      "price": 11808
+    },
+    {
+      "abr": "miliravalkyriehelmet",
+      "category": "Milira Overhead",
+      "defname": "Milira_ValkyrHelmet",
+      "price": 2725
+    },
+    {
+      "abr": "milira'sgreatsword",
+      "category": "Melee weapons",
+      "defname": "Milira_TwoHandSword",
+      "price": 6667
+    },
+    {
+      "abr": "milira'slance",
+      "category": "Melee weapons",
+      "defname": "Milira_Lance",
+      "price": 6667
+    },
+    {
+      "abr": "milira'ssickle",
+      "category": "Melee weapons",
+      "defname": "Milira_Sickle",
+      "price": 6667
+    },
+    {
+      "abr": "milira'sspear",
+      "category": "Melee weapons",
+      "defname": "Milira_Spear",
+      "price": 6667
+    },
+    {
+      "abr": "milira'swarhammer",
+      "category": "Melee weapons",
+      "defname": "Milira_Hammer",
+      "price": 6667
+    },
+    {
+      "abr": "particlebeamgun",
+      "category": "Ranged weapons",
+      "defname": "Milian_ParticleBeamGun",
+      "price": 833
+    },
+    {
+      "abr": "particleimpactblaster",
+      "category": "Ranged weapons",
+      "defname": "Milian_ParticleBeamBlaster",
+      "price": 2667
+    },
+    {
+      "abr": "plasmaburstmg",
+      "category": "Ranged weapons",
+      "defname": "Milira_PlasmaMG",
+      "price": 7667
+    },
+    {
+      "abr": "plasmacannon",
+      "category": "Ranged weapons",
+      "defname": "Milira_PlasmaCannon",
+      "price": 7667
+    },
+    {
+      "abr": "plasmapistol",
+      "category": "Ranged weapons",
+      "defname": "Milira_PlasmaPistol",
+      "price": 2125
+    },
+    {
+      "abr": "plasmarifle",
+      "category": "Ranged weapons",
+      "defname": "Milira_PlasmaRifle",
+      "price": 4708
+    },
+    {
+      "abr": "plasmashockgrenadebelt",
+      "category": "Milira Utility",
+      "defname": "Milira_Apparel_PlasmaShockGrenade",
+      "price": 2608
+    },
+    {
+      "abr": "pulsebeamgun",
+      "category": "Ranged weapons",
+      "defname": "Milian_PulsedBeamGun",
+      "price": 833
+    },
+    {
+      "abr": "repulsivegrenadebelt",
+      "category": "Milira Utility",
+      "defname": "Milira_Apparel_RepulsiveGrenade",
+      "price": 1033
+    },
+    {
+      "abr": "resonatorcore",
+      "category": "Manufactured",
+      "defname": "Milira_ResonatorCore",
+      "price": -10
+    },
+    {
+      "abr": "rookcolossalblade",
+      "category": "Melee weapons",
+      "defname": "Milian_RookBladeII",
+      "price": 2667
+    },
+    {
+      "abr": "rookmono-edgeblade",
+      "category": "Melee weapons",
+      "defname": "Milian_RookBlade",
+      "price": 2667
+    },
+    {
+      "abr": "shieldfloatunitpack",
+      "category": "Milira Utility",
+      "defname": "Milira_FloatUnitPack_Shield",
+      "price": 1750
+    },
+    {
+      "abr": "smallfloatunitpack",
+      "category": "Milira Utility",
+      "defname": "Milira_FloatUnitPack",
+      "price": 583
+    },
+    {
+      "abr": "solarcrystal",
+      "category": "Manufactured",
+      "defname": "Milira_SolarCrystal",
+      "price": 42
+    },
+    {
+      "abr": "solarfuel",
+      "category": "Manufactured",
+      "defname": "Milira_SunLightFuel",
+      "price": -10
+    },
+    {
+      "abr": "solarreflector",
+      "category": "Misc",
+      "defname": "Milira_Heliostat",
+      "price": -10
+    },
+    {
+      "abr": "solar-forgedsteel",
+      "category": "Raw resources",
+      "defname": "Milira_SunPlateSteel",
+      "price": 30
+    },
+    {
+      "abr": "sunblastfurnacebooster",
+      "category": "Misc",
+      "defname": "Milira_SunBlasterBoosterJar",
+      "price": -10
+    },
+    {
+      "abr": "sunblastfurnacecoremodel",
+      "category": "Manufactured",
+      "defname": "Milira_FurnaceCoreModel",
+      "price": -10
+    },
+    {
+      "abr": "sunlightfruit",
+      "category": "Plant matter",
+      "defname": "Milira_SunLightFruit",
+      "price": -10
+    },
+    {
+      "abr": "techprint(molten-saltenergystation)",
+      "category": "Techprints",
+      "defname": "Techprint_Milira_SunLightFuelGenerator",
+      "price": 2000
+    },
+    {
+      "abr": "twin-rotorpropulsionsystem",
+      "category": "Milian Utility",
+      "defname": "Milira_Booster",
+      "price": 3408
+    },
+    {
+      "abr": "unstablereactorvessel",
+      "category": "Furniture",
+      "defname": "Milira_UnstableReactor",
+      "price": 500
     }
   ],
-  "total": 3034
+  "total": 3202
 }

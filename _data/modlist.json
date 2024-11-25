@@ -120,12 +120,6 @@
     "version": null
   },
   {
-    "author": "Ancot",
-    "name": "Ancot Library",
-    "steamId": null,
-    "version": null
-  },
-  {
     "author": "Fluffy",
     "name": "Animal Tab",
     "steamId": "712141500",
@@ -400,6 +394,18 @@
     "name": "Map Preview",
     "steamId": "2800857642",
     "version": "1.12.17+6db7d75d6e1005522b3ed749fab1d56e12fc2a46"
+  },
+  {
+    "author": "Ancot",
+    "name": "Ancot Library",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Ancot",
+    "name": "Milira Race",
+    "steamId": "3256974620",
+    "version": "1.0.0.0"
   },
   {
     "author": "Velc",
@@ -798,6 +804,12 @@
     "version": null
   },
   {
+    "author": "ComradeAlexey",
+    "name": "Vanilla Research Panel - Queue",
+    "steamId": null,
+    "version": null
+  },
+  {
     "author": "Jaxe",
     "name": "RimHUD",
     "steamId": "1508850027",
@@ -952,11 +964,5 @@
     "name": "RocketMan - Performance Mod",
     "steamId": "2479389928",
     "version": "0.6.3.2421"
-  },
-  {
-    "author": "ComradeAlexey",
-    "name": "Vanilla Research Panel - Queue",
-    "steamId": null,
-    "version": null
   }
 ]
