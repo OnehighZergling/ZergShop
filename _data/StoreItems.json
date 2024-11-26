@@ -21190,13 +21190,13 @@
       "abr": "xenodiscombobulator",
       "category": "Misc",
       "defname": "BS_GeneDicombobulator",
-      "price": 1667
+      "price": -10
     },
     {
       "abr": "xenogermcloner",
       "category": "Misc",
       "defname": "BS_CreateXenogerm",
-      "price": 1667
+      "price": -10
     },
     {
       "abr": "xeno-germlinemirroring",
@@ -21257,24 +21257,6 @@
       "category": "Bionic",
       "defname": "BlacksightDevice",
       "price": 6492
-    },
-    {
-      "abr": "centaur",
-      "category": "Animal",
-      "defname": "Centaur918",
-      "price": -10
-    },
-    {
-      "abr": "centaur",
-      "category": "Animal",
-      "defname": "Centaur498",
-      "price": -10
-    },
-    {
-      "abr": "centaur",
-      "category": "Animal",
-      "defname": "Centaur498504",
-      "price": -10
     },
     {
       "abr": "ceremonialhood",
@@ -21917,7 +21899,355 @@
       "category": "Security",
       "defname": "YR_yinyangretrogradestone",
       "price": -10
+    },
+    {
+      "abr": "animusenxenogerm",
+      "category": "Items",
+      "defname": "Xenogerm_AG_Animusen",
+      "price": 3333
+    },
+    {
+      "abr": "ashfeatherxenogerm",
+      "category": "Items",
+      "defname": "Xenogerm_Ashfeather",
+      "price": -10
+    },
+    {
+      "abr": "authorityxenogerm",
+      "category": "Items",
+      "defname": "Xenogerm_BS_Authority",
+      "price": -10
+    },
+    {
+      "abr": "baphometxenogerm",
+      "category": "Items",
+      "defname": "Xenogerm_MG_Baphomet",
+      "price": -10
+    },
+    {
+      "abr": "baselinerxenogerm",
+      "category": "Items",
+      "defname": "Xenogerm_Baseliner",
+      "price": -10
+    },
+    {
+      "abr": "catgirlxenogerm",
+      "category": "Items",
+      "defname": "Xenogerm_MG_Catgirl",
+      "price": 3333
+    },
+    {
+      "abr": "centaurxenogerm",
+      "category": "Items",
+      "defname": "Xenogerm_MG_Centaur",
+      "price": 3333
+    },
+    {
+      "abr": "cowgirlxenogerm",
+      "category": "Items",
+      "defname": "Xenogerm_MG_Cowgirl",
+      "price": 3333
+    },
+    {
+      "abr": "dirtmolexenogerm",
+      "category": "Items",
+      "defname": "Xenogerm_Dirtmole",
+      "price": -10
+    },
+    {
+      "abr": "dragonxenogerm",
+      "category": "Items",
+      "defname": "Xenogerm_MG_Dragon",
+      "price": 3333
+    },
+    {
+      "abr": "drakonorixenogerm",
+      "category": "Items",
+      "defname": "Xenogerm_AG_Drakonori",
+      "price": -10
+    },
+    {
+      "abr": "efreetxenogerm",
+      "category": "Items",
+      "defname": "Xenogerm_AG_Efreet",
+      "price": -10
+    },
+    {
+      "abr": "fleetkindxenogerm",
+      "category": "Items",
+      "defname": "Xenogerm_AG_Fleetkind",
+      "price": -10
+    },
+    {
+      "abr": "forestfairyxenogerm",
+      "category": "Items",
+      "defname": "Xenogerm_MG_ForestFairy",
+      "price": -10
+    },
+    {
+      "abr": "forsakenxenogerm",
+      "category": "Items",
+      "defname": "Xenogerm_AG_Forsaken",
+      "price": -10
+    },
+    {
+      "abr": "foxgirlxenogerm",
+      "category": "Items",
+      "defname": "Xenogerm_MG_Foxgirl",
+      "price": 3333
+    },
+    {
+      "abr": "frostjotunxenogerm",
+      "category": "Items",
+      "defname": "Xenogerm_BS_FrostJotunInBlue",
+      "price": -10
+    },
+    {
+      "abr": "gatekeeperxenogerm",
+      "category": "Items",
+      "defname": "Xenogerm_VU_Gatekeeper",
+      "price": -10
+    },
+    {
+      "abr": "geniexenogerm",
+      "category": "Items",
+      "defname": "Xenogerm_Genie",
+      "price": -10
+    },
+    {
+      "abr": "glintscalexenogerm",
+      "category": "Items",
+      "defname": "Xenogerm_Glintscale",
+      "price": -10
+    },
+    {
+      "abr": "gluttonxenogerm",
+      "category": "Items",
+      "defname": "Xenogerm_BS_Glutton",
+      "price": -10
+    },
+    {
+      "abr": "grigorixenogerm",
+      "category": "Items",
+      "defname": "Xenogerm_BS_Grigori",
+      "price": -10
+    },
+    {
+      "abr": "harpyxenogerm",
+      "category": "Items",
+      "defname": "Xenogerm_MG_Harpy",
+      "price": 3333
+    },
+    {
+      "abr": "helixanxenogerm",
+      "category": "Items",
+      "defname": "Xenogerm_AG_Helixien",
+      "price": -10
+    },
+    {
+      "abr": "hellguardxenogerm",
+      "category": "Items",
+      "defname": "Xenogerm_VU_Hellguard",
+      "price": -10
+    },
+    {
+      "abr": "highmatexenogerm",
+      "category": "Items",
+      "defname": "Xenogerm_Highmate",
+      "price": -10
+    },
+    {
+      "abr": "hivelingxenogerm",
+      "category": "Items",
+      "defname": "Xenogerm_AG_Hiveling",
+      "price": -10
+    },
+    {
+      "abr": "hussarxenogerm",
+      "category": "Items",
+      "defname": "Xenogerm_Hussar",
+      "price": -10
+    },
+    {
+      "abr": "icefairyxenogerm",
+      "category": "Items",
+      "defname": "Xenogerm_MG_IceFairy",
+      "price": 3333
+    },
+    {
+      "abr": "impxenogerm",
+      "category": "Items",
+      "defname": "Xenogerm_VU_Imp",
+      "price": -10
+    },
+    {
+      "abr": "impidxenogerm",
+      "category": "Items",
+      "defname": "Xenogerm_Impid",
+      "price": 3333
+    },
+    {
+      "abr": "kimirixenogerm",
+      "category": "Items",
+      "defname": "Xenogerm_Kimiri",
+      "price": -10
+    },
+    {
+      "abr": "kurinxenogerm",
+      "category": "Items",
+      "defname": "Xenogerm_Kurin",
+      "price": 3333
+    },
+    {
+      "abr": "lapisxenogerm",
+      "category": "Items",
+      "defname": "Xenogerm_AG_Lapis",
+      "price": -10
+    },
+    {
+      "abr": "lil'gluttonxenogerm",
+      "category": "Items",
+      "defname": "Xenogerm_BS_LilGlutton",
+      "price": -10
+    },
+    {
+      "abr": "lilimxenogerm",
+      "category": "Items",
+      "defname": "Xenogerm_BS_Lilim",
+      "price": -10
+    },
+    {
+      "abr": "malakimxenogerm",
+      "category": "Items",
+      "defname": "Xenogerm_BS_Malakim",
+      "price": -10
+    },
+    {
+      "abr": "minddevourerxenogerm",
+      "category": "Items",
+      "defname": "Xenogerm_AG_MindDevourer",
+      "price": -10
+    },
+    {
+      "abr": "neanderthalxenogerm",
+      "category": "Items",
+      "defname": "Xenogerm_Neanderthal",
+      "price": -10
+    },
+    {
+      "abr": "nephilimxenogerm",
+      "category": "Items",
+      "defname": "Xenogerm_BS_Nephilim",
+      "price": -10
+    },
+    {
+      "abr": "nereidxenogerm",
+      "category": "Items",
+      "defname": "Xenogerm_AG_Nereid",
+      "price": 3333
+    },
+    {
+      "abr": "pigskinxenogerm",
+      "category": "Items",
+      "defname": "Xenogerm_Pigskin",
+      "price": 3333
+    },
+    {
+      "abr": "randomcustomxenogerm",
+      "category": "Items",
+      "defname": "Xenogerm_AG_RandomCustom",
+      "price": 3333
+    },
+    {
+      "abr": "sanguophagexenogerm",
+      "category": "Items",
+      "defname": "Xenogerm_Sanguophage",
+      "price": 10000
+    },
+    {
+      "abr": "satanxenogerm",
+      "category": "Items",
+      "defname": "Xenogerm_BS_Satan",
+      "price": -10
+    },
+    {
+      "abr": "slimexenogerm",
+      "category": "Items",
+      "defname": "Xenogerm_MG_Slime",
+      "price": 3333
+    },
+    {
+      "abr": "succubusxenogerm",
+      "category": "Items",
+      "defname": "Xenogerm_VU_Succubus",
+      "price": -10
+    },
+    {
+      "abr": "taukaixenogerm",
+      "category": "Items",
+      "defname": "Xenogerm_AG_Taukai",
+      "price": -10
+    },
+    {
+      "abr": "thrumbogirlxenogerm",
+      "category": "Items",
+      "defname": "Xenogerm_MG_Thrumbogirl",
+      "price": 3333
+    },
+    {
+      "abr": "wasterxenogerm",
+      "category": "Items",
+      "defname": "Xenogerm_Waster",
+      "price": -10
+    },
+    {
+      "abr": "wolfgirlxenogerm",
+      "category": "Items",
+      "defname": "Xenogerm_MG_Wolfgirl",
+      "price": 3333
+    },
+    {
+      "abr": "centaur",
+      "category": "Animal",
+      "defname": "Centaur983",
+      "price": 2917
+    },
+    {
+      "abr": "centaur",
+      "category": "Animal",
+      "defname": "Centaur102",
+      "price": 2917
+    },
+    {
+      "abr": "centaur",
+      "category": "Animal",
+      "defname": "Centaur102590",
+      "price": 2917
+    },
+    {
+      "abr": "wretchxenogerm",
+      "category": "Items",
+      "defname": "Xenogerm_AG_Wretch",
+      "price": -10
+    },
+    {
+      "abr": "yttakinxenogerm",
+      "category": "Items",
+      "defname": "Xenogerm_Yttakin",
+      "price": -10
+    },
+    {
+      "abr": "yuranxenogerm",
+      "category": "Items",
+      "defname": "Xenogerm_YuranXenotype",
+      "price": 3333
+    },
+    {
+      "abr": "zombrella",
+      "category": "Misc",
+      "defname": "Zombrella",
+      "price": 3333
     }
   ],
-  "total": 3653
+  "total": 3708
 }

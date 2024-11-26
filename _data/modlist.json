@@ -228,6 +228,12 @@
     "version": "1.0.0.0"
   },
   {
+    "author": "void",
+    "name": "Character Editor",
+    "steamId": "1874644848",
+    "version": "1.5.10.0"
+  },
+  {
     "author": "民火",
     "name": "Cut plants before building",
     "steamId": null,
@@ -302,6 +308,12 @@
   {
     "author": "BobnikTheIII",
     "name": "Gender Genes",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "theactualspinny",
+    "name": "Gene Trader",
     "steamId": null,
     "version": null
   },
@@ -540,9 +552,9 @@
     "version": "1.5.2"
   },
   {
-    "author": "legodude17",
-    "name": "Quality Colors",
-    "steamId": "2420141361",
+    "author": "tiagorbrodrigues",
+    "name": "Quality Colors 1.5 - Forked",
+    "steamId": "3224462440",
     "version": "1.0.0.0"
   },
   {
@@ -882,6 +894,12 @@
     "version": "4.0.6.5399+940962909e038e7f989abb2a2e979e6b0a3338bf"
   },
   {
+    "author": "Gege",
+    "name": "Xenotype Xenogerms (Continued)",
+    "steamId": "3272195098",
+    "version": "1.0.0.0"
+  },
+  {
     "author": "none",
     "name": "[CAT] Show Hair With Hats or Hide All Hats",
     "steamId": "2879080074",
@@ -1000,11 +1018,5 @@
     "name": "RocketMan - Performance Mod",
     "steamId": "2479389928",
     "version": "0.6.3.2421"
-  },
-  {
-    "author": "legodude17 and ISOREX",
-    "name": "Pawn Editor",
-    "steamId": "3219801790",
-    "version": "1.0.9"
   }
 ]
