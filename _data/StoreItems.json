@@ -18181,12 +18181,6 @@
       "price": 8333
     },
     {
-      "abr": "zombrella",
-      "category": "Misc",
-      "defname": "Zombrella",
-      "price": 3333
-    },
-    {
       "abr": "churchdossier:bishopclass",
       "category": "Church dossiers",
       "defname": "Milira_InformationLetterI_MilianClass_Bishop",
@@ -20519,7 +20513,715 @@
       "category": "Military components",
       "defname": "AM_ComponentWeapon",
       "price": 417
+    },
+    {
+      "abr": "androidfuel",
+      "category": "Foods",
+      "defname": "BS_AndroidFuel",
+      "price": 40
+    },
+    {
+      "abr": "animalgiantizer",
+      "category": "Misc",
+      "defname": "BS_Giant_Serum",
+      "price": 1667
+    },
+    {
+      "abr": "animalminimizer",
+      "category": "Misc",
+      "defname": "BS_Shrink_Serum",
+      "price": 1667
+    },
+    {
+      "abr": "anomalousshard",
+      "category": "Manufactured",
+      "defname": "BS_DarkSoulshard",
+      "price": 667
+    },
+    {
+      "abr": "architegenomecloner",
+      "category": "Misc",
+      "defname": "BS_CreateArchiteXenogerm_Endo",
+      "price": 1667
+    },
+    {
+      "abr": "architexenogermcloner",
+      "category": "Misc",
+      "defname": "BS_CreateArchiteXenogerm",
+      "price": 1667
+    },
+    {
+      "abr": "archotechapparel-integrator",
+      "category": "Archotech",
+      "defname": "BS_IndestructibelApparel",
+      "price": 4667
+    },
+    {
+      "abr": "bioniclocomotivespine",
+      "category": "Bionic",
+      "defname": "BS_BionicLocomotiveSpine",
+      "price": 4025
+    },
+    {
+      "abr": "bionicstriderleg",
+      "category": "Bionic",
+      "defname": "BS_BionicStriderLeg",
+      "price": 1733
+    },
+    {
+      "abr": "cannon",
+      "category": "Security",
+      "defname": "VFEP_Turret_Cannon",
+      "price": 262
+    },
+    {
+      "abr": "carnivorelargefinemeal",
+      "category": "Meals",
+      "defname": "BS_MealLargeFine_Meat",
+      "price": -10
+    },
+    {
+      "abr": "carnivorelargelavishmeal",
+      "category": "Meals",
+      "defname": "BS_MealLargeLavish_Meat",
+      "price": -10
+    },
+    {
+      "abr": "centaur",
+      "category": "Animal",
+      "defname": "Centaur811",
+      "price": 2917
+    },
+    {
+      "abr": "centaur",
+      "category": "Animal",
+      "defname": "Centaur308",
+      "price": 2917
+    },
+    {
+      "abr": "centaur",
+      "category": "Animal",
+      "defname": "Centaur308656",
+      "price": 2917
+    },
+    {
+      "abr": "centauroid",
+      "category": "Animal",
+      "defname": "BS_Centaur",
+      "price": 2917
+    },
+    {
+      "abr": "centauroidmeat",
+      "category": "Meat",
+      "defname": "Meat_BS_Centaur",
+      "price": 1
+    },
+    {
+      "abr": "fieldgun",
+      "category": "Security",
+      "defname": "VFEP_Turret_FieldGun",
+      "price": 1058
+    },
+    {
+      "abr": "finelargemeal",
+      "category": "Meals",
+      "defname": "BS_MealLargeFine",
+      "price": -10
+    },
+    {
+      "abr": "fourarmedhuman",
+      "category": "Animal",
+      "defname": "BS_HumanFouramed",
+      "price": 2917
+    },
+    {
+      "abr": "fourarmedhumanmeat",
+      "category": "Meat",
+      "defname": "Meat_BS_HumanFouramed",
+      "price": 1
+    },
+    {
+      "abr": "four-armedhumanlikewithatail",
+      "category": "Animal",
+      "defname": "G_FourArmTailed",
+      "price": 2917
+    },
+    {
+      "abr": "four-armedhumanlikewithatailandwings",
+      "category": "Animal",
+      "defname": "G_FourArmTailedWinged",
+      "price": 2917
+    },
+    {
+      "abr": "four-armedhumanlikewithwings",
+      "category": "Animal",
+      "defname": "G_FourArmWinged",
+      "price": 2917
+    },
+    {
+      "abr": "geneintegrator",
+      "category": "Misc",
+      "defname": "BS_GeneGeneIntegrator",
+      "price": 1667
+    },
+    {
+      "abr": "germlinecloner",
+      "category": "Misc",
+      "defname": "BS_CreateXenogerm_Endo",
+      "price": 1667
+    },
+    {
+      "abr": "giantclub",
+      "category": "Melee weapons",
+      "defname": "BS_OgreClub",
+      "price": 408
+    },
+    {
+      "abr": "giantprimitivehammer",
+      "category": "Melee weapons",
+      "defname": "BS_GiantHammer",
+      "price": 408
+    },
+    {
+      "abr": "giantsword",
+      "category": "Melee weapons",
+      "defname": "BS_JotunSword",
+      "price": 792
+    },
+    {
+      "abr": "giantwarhammer",
+      "category": "Melee weapons",
+      "defname": "BS_JotunHammer",
+      "price": 1058
+    },
+    {
+      "abr": "glutton",
+      "category": "Animal",
+      "defname": "BS_GluttonRace",
+      "price": 2500
+    },
+    {
+      "abr": "growthray",
+      "category": "Ranged weapons",
+      "defname": "BMad_GrowthRay",
+      "price": 717
+    },
+    {
+      "abr": "growth-raymini-turret",
+      "category": "Security",
+      "defname": "BMAD_GrowthTurret",
+      "price": 1042
+    },
+    {
+      "abr": "hugejavelin",
+      "category": "Ranged weapons",
+      "defname": "BS_JotunJavelin",
+      "price": 642
+    },
+    {
+      "abr": "insect-likehumanoid",
+      "category": "Animal",
+      "defname": "BS_InsectoidHumanoid_FourArmed",
+      "price": 2500
+    },
+    {
+      "abr": "lavishlargemeal",
+      "category": "Meals",
+      "defname": "BS_MealLargeLavish",
+      "price": -10
+    },
+    {
+      "abr": "mech",
+      "category": "Animal",
+      "defname": "BS_UrbMech",
+      "price": 4167
+    },
+    {
+      "abr": "mechmeat",
+      "category": "Meat",
+      "defname": "Meat_BS_UrbMech",
+      "price": 1
+    },
+    {
+      "abr": "mechawithatail",
+      "category": "Animal",
+      "defname": "M_MechaTailed",
+      "price": 4167
+    },
+    {
+      "abr": "mechawithatailandwings",
+      "category": "Animal",
+      "defname": "M_MechaTailedWinged",
+      "price": 4167
+    },
+    {
+      "abr": "mechawithfourarms",
+      "category": "Animal",
+      "defname": "M_MechaFourArm",
+      "price": 4167
+    },
+    {
+      "abr": "mechawithfourarmsandatail",
+      "category": "Animal",
+      "defname": "M_MechaFourArmTailed",
+      "price": 4167
+    },
+    {
+      "abr": "mechawithfourarmsandatailandwings",
+      "category": "Animal",
+      "defname": "M_MechaFourArmTailedWinged",
+      "price": 4167
+    },
+    {
+      "abr": "mechawithfourarmsandwings",
+      "category": "Animal",
+      "defname": "M_MechaFourArmWinged",
+      "price": 4167
+    },
+    {
+      "abr": "mechawithfourlegs",
+      "category": "Animal",
+      "defname": "M_MechaCentaur",
+      "price": 4167
+    },
+    {
+      "abr": "mechawithfourlegsandfourarms",
+      "category": "Animal",
+      "defname": "M_MechaCentaurFourArm",
+      "price": 4167
+    },
+    {
+      "abr": "mechawithfourlegsandfourarmsandwings",
+      "category": "Animal",
+      "defname": "M_MechaCentaurFourArmWinged",
+      "price": 4167
+    },
+    {
+      "abr": "mechawithfourlegsandwings",
+      "category": "Animal",
+      "defname": "M_MechaCentaurWinged",
+      "price": 4167
+    },
+    {
+      "abr": "mechawithmech",
+      "category": "Animal",
+      "defname": "M_MechaMecha",
+      "price": 4167
+    },
+    {
+      "abr": "mechawithserpent-liketail",
+      "category": "Animal",
+      "defname": "M_MechaSnek",
+      "price": 4167
+    },
+    {
+      "abr": "mechawithserpent-liketailandfourarms",
+      "category": "Animal",
+      "defname": "M_MechaSnekFourArm",
+      "price": 4167
+    },
+    {
+      "abr": "mechawithserpent-liketailandfourarmsandwings",
+      "category": "Animal",
+      "defname": "M_MechaSnekFourArmWinged",
+      "price": 4167
+    },
+    {
+      "abr": "mechawithserpent-liketailandwings",
+      "category": "Animal",
+      "defname": "M_MechaSnekWinged",
+      "price": 4167
+    },
+    {
+      "abr": "mechawithspider-likeabdomen",
+      "category": "Animal",
+      "defname": "M_MechaSpooder",
+      "price": 4167
+    },
+    {
+      "abr": "mechawithspider-likeabdomenandfourarms",
+      "category": "Animal",
+      "defname": "M_MechaSpooderFourArm",
+      "price": 4167
+    },
+    {
+      "abr": "mechawithspider-likeabdomenandfourarmsandwings",
+      "category": "Animal",
+      "defname": "M_MechaSpooderFourArmWinged",
+      "price": 4167
+    },
+    {
+      "abr": "mechawithspider-likeabdomenandwings",
+      "category": "Animal",
+      "defname": "M_MechaSpooderWinged",
+      "price": 4167
+    },
+    {
+      "abr": "mechawithwings",
+      "category": "Animal",
+      "defname": "M_MechaWinged",
+      "price": 4167
+    },
+    {
+      "abr": "packagedlargesurvivalmeal",
+      "category": "Meals",
+      "defname": "BS_MealLargeSurvivalPack",
+      "price": -10
+    },
+    {
+      "abr": "personaskrýmir'smallet",
+      "category": "Persona weapons",
+      "defname": "BS_SkrymirHammer_Persona",
+      "price": 5833
+    },
+    {
+      "abr": "personaswordofsurtr",
+      "category": "Persona weapons",
+      "defname": "BS_SurtrSword_Persona",
+      "price": 5833
+    },
+    {
+      "abr": "privateerarmor",
+      "category": "Armor",
+      "defname": "VFEP_Apparel_Privateer",
+      "price": 3692
+    },
+    {
+      "abr": "rum",
+      "category": "Drugs",
+      "defname": "VFEP_Rum",
+      "price": 10
+    },
+    {
+      "abr": "rumsuit",
+      "category": "Apparel",
+      "defname": "VFEP_Apparel_Rumsuit",
+      "price": 350
+    },
+    {
+      "abr": "serpent-likewithfourarms",
+      "category": "Animal",
+      "defname": "G_SnekFourArm",
+      "price": 2917
+    },
+    {
+      "abr": "serpent-likewithfourarmsandwings",
+      "category": "Animal",
+      "defname": "G_SnekFourArmWinged",
+      "price": 2917
+    },
+    {
+      "abr": "serpent-likewithwings",
+      "category": "Animal",
+      "defname": "G_SnekWinged",
+      "price": 2917
+    },
+    {
+      "abr": "shrinkray",
+      "category": "Ranged weapons",
+      "defname": "BMad_ShrinkRay",
+      "price": 717
+    },
+    {
+      "abr": "shrink-raymini-turret",
+      "category": "Security",
+      "defname": "BMAD_ShrinkTurret",
+      "price": 1042
+    },
+    {
+      "abr": "simplelargemeal",
+      "category": "Meals",
+      "defname": "BS_MealLargeSimple",
+      "price": -10
+    },
+    {
+      "abr": "six-armedsnake-person",
+      "category": "Animal",
+      "defname": "BS_Marlith",
+      "price": 3333
+    },
+    {
+      "abr": "skrýmir'smallet",
+      "category": "Melee weapons",
+      "defname": "BS_SkrymirHammer",
+      "price": 4167
+    },
+    {
+      "abr": "snake-person",
+      "category": "Animal",
+      "defname": "BS_Naga",
+      "price": 2917
+    },
+    {
+      "abr": "snake-personmeat",
+      "category": "Meat",
+      "defname": "Meat_BS_Naga",
+      "price": -10
+    },
+    {
+      "abr": "spider-likewithfourarms",
+      "category": "Animal",
+      "defname": "G_SpooderFourArm",
+      "price": 2917
+    },
+    {
+      "abr": "spider-likewithfourarmsandwings",
+      "category": "Animal",
+      "defname": "G_SpooderFourArmWinged",
+      "price": 2917
+    },
+    {
+      "abr": "spider-likewithwings",
+      "category": "Animal",
+      "defname": "G_SpooderWinged",
+      "price": 2917
+    },
+    {
+      "abr": "spider-person",
+      "category": "Animal",
+      "defname": "BS_SpiderPersonRace",
+      "price": 2917
+    },
+    {
+      "abr": "swordofsurtr",
+      "category": "Melee weapons",
+      "defname": "BS_SurtrSword",
+      "price": 4167
+    },
+    {
+      "abr": "tailedhumanlikewithwings",
+      "category": "Animal",
+      "defname": "G_TailedWinged",
+      "price": 2917
+    },
+    {
+      "abr": "tailedhumanoid",
+      "category": "Animal",
+      "defname": "BS_HumanoidWithTail",
+      "price": 2917
+    },
+    {
+      "abr": "tailedhumanoidmeat",
+      "category": "Meat",
+      "defname": "Meat_BS_HumanoidWithTail",
+      "price": -10
+    },
+    {
+      "abr": "throwingchunks",
+      "category": "Ranged weapons",
+      "defname": "BS_OgreThrowinRock",
+      "price": 83
+    },
+    {
+      "abr": "vegetarianlargefinemeal",
+      "category": "Meals",
+      "defname": "BS_MealLargeFine_Veg",
+      "price": -10
+    },
+    {
+      "abr": "vegetarianlargelavishmeal",
+      "category": "Meals",
+      "defname": "BS_MealLargeLavish_Veg",
+      "price": -10
+    },
+    {
+      "abr": "warcasketautorifle",
+      "category": "Misc",
+      "defname": "VFEP_Box_Autorifle",
+      "price": 2083
+    },
+    {
+      "abr": "warcasketautorifle",
+      "category": "Ranged weapons",
+      "defname": "VFEP_WarcasketGun_Autorifle",
+      "price": 2083
+    },
+    {
+      "abr": "warcasketbroadsword",
+      "category": "Misc",
+      "defname": "VFEP_Box_Broadsword",
+      "price": 2433
+    },
+    {
+      "abr": "warcasketbroadsword",
+      "category": "Melee weapons",
+      "defname": "VFEP_WarcasketMeleeWeapon_Broadsword",
+      "price": 2433
+    },
+    {
+      "abr": "warcasketchargeblaster",
+      "category": "Misc",
+      "defname": "VFEP_Box_ChargeBlaster",
+      "price": 3667
+    },
+    {
+      "abr": "warcasketchargeblaster",
+      "category": "Ranged weapons",
+      "defname": "VFEP_WarcasketGun_ChargeBlaster",
+      "price": 3667
+    },
+    {
+      "abr": "warcasketchargelance",
+      "category": "Misc",
+      "defname": "VFEP_Box_ChargeLance",
+      "price": 3750
+    },
+    {
+      "abr": "warcasketchargelance",
+      "category": "Ranged weapons",
+      "defname": "VFEP_WarcasketGun_ChargeLance",
+      "price": 3750
+    },
+    {
+      "abr": "warcasketcombatknife",
+      "category": "Misc",
+      "defname": "VFEP_Box_CombatKnife",
+      "price": 1450
+    },
+    {
+      "abr": "warcasketcombatknife",
+      "category": "Melee weapons",
+      "defname": "VFEP_WarcasketMeleeWeapon_CombatKnife",
+      "price": 1450
+    },
+    {
+      "abr": "warcasketgravityhammer",
+      "category": "Misc",
+      "defname": "VFEP_Box_GravityHammer",
+      "price": 5000
+    },
+    {
+      "abr": "warcasketgravityhammer",
+      "category": "Melee weapons",
+      "defname": "VFEP_WarcasketMeleeWeapon_GravityHammer",
+      "price": 5000
+    },
+    {
+      "abr": "warcasketgrenadelauncher",
+      "category": "Misc",
+      "defname": "VFEP_Box_GrenadeLauncher",
+      "price": 3150
+    },
+    {
+      "abr": "warcasketgrenadelauncher",
+      "category": "Ranged weapons",
+      "defname": "VFEP_WarcasketGun_GrenadeLauncher",
+      "price": 3150
+    },
+    {
+      "abr": "warcaskethandheldcannon",
+      "category": "Misc",
+      "defname": "VFEP_Box_HandheldCannon",
+      "price": 2250
+    },
+    {
+      "abr": "warcaskethandheldcannon",
+      "category": "Ranged weapons",
+      "defname": "VFEP_WarcasketGun_HandheldCannon",
+      "price": 2250
+    },
+    {
+      "abr": "warcasketheavyflamer",
+      "category": "Misc",
+      "defname": "VFEP_Box_HeavyFlamer",
+      "price": 4083
+    },
+    {
+      "abr": "warcasketheavyflamer",
+      "category": "Ranged weapons",
+      "defname": "VFEP_WarcasketGun_HeavyFlamer",
+      "price": 4083
+    },
+    {
+      "abr": "warcasketminigun",
+      "category": "Misc",
+      "defname": "VFEP_Box_Minigun",
+      "price": 3733
+    },
+    {
+      "abr": "warcasketminigun",
+      "category": "Ranged weapons",
+      "defname": "VFEP_WarcasketGun_Minigun",
+      "price": 3733
+    },
+    {
+      "abr": "warcasketplasmasword",
+      "category": "Melee weapons",
+      "defname": "VFEP_WarcasketMeleeWeapon_PlasmaSword",
+      "price": 6000
+    },
+    {
+      "abr": "warcasketslugthrower",
+      "category": "Misc",
+      "defname": "VFEP_Box_Slugthrower",
+      "price": 1833
+    },
+    {
+      "abr": "warcasketslugthrower",
+      "category": "Ranged weapons",
+      "defname": "VFEP_WarcasketGun_Slugthrower",
+      "price": 1833
+    },
+    {
+      "abr": "warcasketuraniumslugrifle",
+      "category": "Misc",
+      "defname": "VFEP_Box_UraniumSlugRifle",
+      "price": 2750
+    },
+    {
+      "abr": "warcasketuraniumslugrifle",
+      "category": "Ranged weapons",
+      "defname": "VFEP_WarcasketGun_UraniumSlugRifle",
+      "price": 2750
+    },
+    {
+      "abr": "warmechanti-materialrifle",
+      "category": "Ranged weapons",
+      "defname": "BS_JotunRifle",
+      "price": 1175
+    },
+    {
+      "abr": "warmechmachinegun",
+      "category": "Ranged weapons",
+      "defname": "BS_GiantMinigun",
+      "price": 2850
+    },
+    {
+      "abr": "warmechrocketlauncher",
+      "category": "Ranged weapons",
+      "defname": "BS_JotunRocketLauncher",
+      "price": 2600
+    },
+    {
+      "abr": "wingedhumanoid",
+      "category": "Animal",
+      "defname": "BS_HumanoidWithWings",
+      "price": 2917
+    },
+    {
+      "abr": "wingedhumanoidmeat",
+      "category": "Meat",
+      "defname": "Meat_BS_HumanoidWithWings",
+      "price": -10
+    },
+    {
+      "abr": "xenodiscombobulator",
+      "category": "Misc",
+      "defname": "BS_GeneDicombobulator",
+      "price": 1667
+    },
+    {
+      "abr": "xenogermcloner",
+      "category": "Misc",
+      "defname": "BS_CreateXenogerm",
+      "price": 1667
+    },
+    {
+      "abr": "xeno-germlinemirroring",
+      "category": "Misc",
+      "defname": "BS_XenoCopy",
+      "price": 1667
     }
   ],
-  "total": 3420
+  "total": 3537
 }
