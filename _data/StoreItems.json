@@ -7378,7 +7378,7 @@
       "abr": "cowgirlmilk",
       "category": "Animal products",
       "defname": "CowgirlMilk",
-      "price": 3
+      "price": -10
     },
     {
       "abr": "pulpit",
@@ -11980,13 +11980,13 @@
       "abr": "crocodileegg(fert.)",
       "category": "Eggs (fert.)",
       "defname": "AEXP_EggCrocodileFertilized",
-      "price": 40
+      "price": -10
     },
     {
       "abr": "crocodileegg(unfert.)",
       "category": "Eggs (unfert.)",
       "defname": "AEXP_EggCrocodileUnfertilized",
-      "price": 40
+      "price": -10
     },
     {
       "abr": "crocodilemeat",
@@ -13162,7 +13162,7 @@
       "abr": "platypusegg(fert.)",
       "category": "Eggs (fert.)",
       "defname": "AEXP_EggPlatypusFertilized",
-      "price": 15
+      "price": -10
     },
     {
       "abr": "platypusleather",
@@ -19432,25 +19432,25 @@
       "abr": "cannedbraisedpork",
       "category": "Meals",
       "defname": "AM_CannedBraisedPorkbelly",
-      "price": 117
+      "price": -10
     },
     {
       "abr": "cannedherring",
       "category": "Meals",
       "defname": "AM_CannedHerring",
-      "price": 100
+      "price": -10
     },
     {
       "abr": "cannedpeas",
       "category": "Meals",
       "defname": "AM_CannedPeas",
-      "price": 33
+      "price": -10
     },
     {
       "abr": "cannedstewedmuffalo",
       "category": "Meals",
       "defname": "AM_CannedStewedBeef",
-      "price": 100
+      "price": -10
     },
     {
       "abr": "cardboardbox",
@@ -19528,7 +19528,7 @@
       "abr": "classicpotatochips",
       "category": "Meals",
       "defname": "AM_PotatoChipsA",
-      "price": 33
+      "price": -10
     },
     {
       "abr": "closecombatdmr",
@@ -19552,7 +19552,7 @@
       "abr": "coca-cola",
       "category": "Meals",
       "defname": "AM_Coca",
-      "price": 42
+      "price": -10
     },
     {
       "abr": "collapsedshelves",
@@ -19654,7 +19654,7 @@
       "abr": "cucumberpotatochips",
       "category": "Meals",
       "defname": "AM_PotatoChipsC",
-      "price": 33
+      "price": -10
     },
     {
       "abr": "customcarbine",
@@ -19690,7 +19690,7 @@
       "abr": "deluxecannedmuffalo",
       "category": "Meals",
       "defname": "AM_DeliciousCannedBeef",
-      "price": 200
+      "price": -10
     },
     {
       "abr": "dilapidatedmap",
@@ -19750,7 +19750,7 @@
       "abr": "fanta",
       "category": "Meals",
       "defname": "AM_Fanta",
-      "price": 42
+      "price": -10
     },
     {
       "abr": "fertilizer",
@@ -19894,7 +19894,7 @@
       "abr": "italianredstewpotatochips",
       "category": "Meals",
       "defname": "AM_PotatoChipsF",
-      "price": 33
+      "price": -10
     },
     {
       "abr": "keycard",
@@ -20020,7 +20020,7 @@
       "abr": "lemonpotatochips",
       "category": "Meals",
       "defname": "AM_PotatoChipsE",
-      "price": 33
+      "price": -10
     },
     {
       "abr": "lowvisibilityshortrifle",
@@ -20080,7 +20080,7 @@
       "abr": "militaryration",
       "category": "Meals",
       "defname": "AM_MRE",
-      "price": 42
+      "price": -10
     },
     {
       "abr": "militarystandardrifle",
@@ -20206,7 +20206,7 @@
       "abr": "pepsi",
       "category": "Meals",
       "defname": "AM_Pepsi",
-      "price": 42
+      "price": -10
     },
     {
       "abr": "pileofdirt",
@@ -20380,7 +20380,7 @@
       "abr": "sprite",
       "category": "Meals",
       "defname": "AM_Sprite",
-      "price": 42
+      "price": -10
     },
     {
       "abr": "ssd",
@@ -20392,7 +20392,7 @@
       "abr": "steakpotatochips",
       "category": "Meals",
       "defname": "AM_PotatoChipsD",
-      "price": 33
+      "price": -10
     },
     {
       "abr": "stechkinpistol",
@@ -20440,7 +20440,7 @@
       "abr": "tomatopotatochips",
       "category": "Meals",
       "defname": "AM_PotatoChipsB",
-      "price": 33
+      "price": -10
     },
     {
       "abr": "travelbag",
