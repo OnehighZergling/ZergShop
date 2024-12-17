@@ -26,6 +26,11 @@
 		"karmatype": "Neutral"
 	},
 	{
+		"abr": "aurora",
+		"price": 200,
+		"karmatype": "Good"
+	},
+	{
 		"abr": "animaltame",
 		"price": 150,
 		"karmatype": "Good"
@@ -37,12 +42,12 @@
 	},
 	{
 		"abr": "tradercaravan",
-		"price": 1500,
+		"price": 250,
 		"karmatype": "Good"
 	},
 	{
 		"abr": "orbitaltraderarrival",
-		"price": 2000,
+		"price": 1500,
 		"karmatype": "Good"
 	},
 	{
@@ -226,5 +231,5 @@
 		"karmatype": "Good"
 	}
 	],
-	"total": 45
+	"total": 46
 }

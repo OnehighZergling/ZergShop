@@ -24,12 +24,6 @@
     "version": "3.9.5.0"
   },
   {
-    "author": "sulusdacor, james76543, Meltup and leugimimi",
-    "name": "Advanced Power Plus",
-    "steamId": null,
-    "version": null
-  },
-  {
     "author": "Mlie",
     "name": "All Memories Fade",
     "steamId": "2800155563",
@@ -46,12 +40,6 @@
     "name": "Dubs Mint Menus",
     "steamId": "1446523594",
     "version": "1.0.0"
-  },
-  {
-    "author": "Vendan, Kiame Vivacity and \"Just Harry\"",
-    "name": "RimFridge: Now with Shelves!",
-    "steamId": "2898411376",
-    "version": "1.0.0+4ff143b63d2ab5f55e26fd67374dfa203a73c0d2"
   },
   {
     "author": "Little White Mouse",
@@ -81,18 +69,6 @@
     "author": "Oskar Potocki, XeoNovaDan, Orion, Kikohi, Taranchuk, Sarg Bjornson and Erdelf",
     "name": "Vanilla Expanded Framework",
     "steamId": "2023507013",
-    "version": "1.0.0.0"
-  },
-  {
-    "author": "erdelf, Oskar Potocki, legodude17, Taranchuk, xrushha, Sarg Bjornson, Sir Van and Reann Shepard",
-    "name": "Vanilla Psycasts Expanded",
-    "steamId": "2842502659",
-    "version": "1.1.0.0"
-  },
-  {
-    "author": "Sarg Bjornson",
-    "name": "Alpha Mechs",
-    "steamId": "2973169158",
     "version": "1.0.0.0"
   },
   {
@@ -168,52 +144,10 @@
     "version": null
   },
   {
-    "author": "Lennoxicon",
-    "name": "Biotech Expansion - Core",
-    "steamId": null,
-    "version": null
-  },
-  {
-    "author": "Telefonmast",
-    "name": "Graphics Settings+",
-    "steamId": "1678847247",
-    "version": "1.0.0"
-  },
-  {
-    "author": "jecrell and contributors",
-    "name": "JecsTools",
-    "steamId": "932008009",
-    "version": "1.5.0.0"
-  },
-  {
-    "author": "Imranfish",
-    "name": "XML Extensions",
-    "steamId": "2574315206",
-    "version": "1.7.1"
-  },
-  {
-    "author": "erdelf",
-    "name": "Humanoid Alien Races",
-    "steamId": "839005762",
+    "author": "Nalzurin, Athitei and Zeues",
+    "name": "Bionix Automator",
+    "steamId": "3357286019",
     "version": "1.0.0.0"
-  },
-  {
-    "author": "RedMattis",
-    "name": "Big and Small - Genes & More",
-    "steamId": null,
-    "version": null
-  },
-  {
-    "author": "RedMattis",
-    "name": "Big and Small - Heaven and Hell",
-    "steamId": null,
-    "version": null
-  },
-  {
-    "author": "Lennoxicon",
-    "name": "Biotech Expansion - Mythic",
-    "steamId": null,
-    "version": null
   },
   {
     "author": "Smash Phil | Dr_Zhivago | monkey5206",
@@ -232,6 +166,54 @@
     "name": "Character Editor",
     "steamId": "1874644848",
     "version": "1.5.10.0"
+  },
+  {
+    "author": "Telefonmast",
+    "name": "Graphics Settings+",
+    "steamId": "1678847247",
+    "version": "1.0.0"
+  },
+  {
+    "author": "jecrell and contributors",
+    "name": "JecsTools",
+    "steamId": "932008009",
+    "version": "1.5.0.0"
+  },
+  {
+    "author": "Oskar Potocki and Kikohi",
+    "name": "Vanilla Storytellers Expanded - Winston Waves",
+    "steamId": "3215569151",
+    "version": "1.0.2.2"
+  },
+  {
+    "author": "Imranfish",
+    "name": "XML Extensions",
+    "steamId": "2574315206",
+    "version": "1.7.1"
+  },
+  {
+    "author": "erdelf",
+    "name": "Humanoid Alien Races",
+    "steamId": "839005762",
+    "version": "1.0.0.0"
+  },
+  {
+    "author": "Uuugggg",
+    "name": "TDS Bug Fixes",
+    "steamId": "2895035527",
+    "version": "1.0.0.0"
+  },
+  {
+    "author": "Uuugggg",
+    "name": "TD Find Lib",
+    "steamId": "2895299310",
+    "version": "1.0.0.0"
+  },
+  {
+    "author": "Uuugggg",
+    "name": "Ctrl F",
+    "steamId": "2895300634",
+    "version": "1.0.0.0"
   },
   {
     "author": "民火",
@@ -270,6 +252,12 @@
     "version": "1.0.0"
   },
   {
+    "author": "Onyxae",
+    "name": "Dragons Descent",
+    "steamId": "2026992161",
+    "version": "1.0.0.0"
+  },
+  {
     "author": "Dubwise",
     "name": "Dubs Central Heating",
     "steamId": "2619214952",
@@ -306,16 +294,16 @@
     "version": null
   },
   {
-    "author": "BobnikTheIII",
-    "name": "Gender Genes",
-    "steamId": null,
-    "version": null
-  },
-  {
     "author": "theactualspinny",
     "name": "Gene Trader",
     "steamId": null,
     "version": null
+  },
+  {
+    "author": "m00nl1ght",
+    "name": "Geological Landforms",
+    "steamId": "2773943594",
+    "version": "1.7.0+a8dff1767e55559fe64dec1b3aca5c261ee366c9"
   },
   {
     "author": "SmArtKar",
@@ -376,6 +364,18 @@
     "name": "Killfeed",
     "steamId": "1362098265",
     "version": "1.0.0.0"
+  },
+  {
+    "author": "Torann",
+    "name": "A RimWorld of Magic",
+    "steamId": "1201382956",
+    "version": "2.6.3.4"
+  },
+  {
+    "author": "Kure",
+    "name": "Kure's Rimworld of Magic Class Expansion Pack",
+    "steamId": null,
+    "version": null
   },
   {
     "author": "Smash Phil and Neceros",
@@ -534,12 +534,6 @@
     "version": "1.0.0.0"
   },
   {
-    "author": "Nuff",
-    "name": "Pets Are Safe",
-    "steamId": "2926693606",
-    "version": "1.0.0.0"
-  },
-  {
     "author": "Mlie",
     "name": "Prisoners Dont Have Keys",
     "steamId": "2595360307",
@@ -582,18 +576,6 @@
     "version": "1.8.0.0"
   },
   {
-    "author": "aRandomKiwi",
-    "name": "Raids For Me",
-    "steamId": "1633517937",
-    "version": "1.0.9.0"
-  },
-  {
-    "author": "Helixien",
-    "name": "ReSplice: Core",
-    "steamId": "3236303965",
-    "version": "1.0.0.0"
-  },
-  {
     "author": "Garwel",
     "name": "Recruit Slaves",
     "steamId": "2887124861",
@@ -630,6 +612,12 @@
     "version": "2.0.3"
   },
   {
+    "author": "avilmask",
+    "name": "Research Whatever",
+    "steamId": "2552092060",
+    "version": "1.0.0.0"
+  },
+  {
     "author": "Jecrell",
     "name": "RimQuest (Continued)",
     "steamId": "2263331727",
@@ -654,16 +642,16 @@
     "version": null
   },
   {
-    "author": "Loconeko",
-    "name": "Roads of the Rim (Continued)",
-    "steamId": "2280318231",
-    "version": "1.5.1"
+    "author": "Roolo",
+    "name": "Search and Destroy (Unofficial Update)",
+    "steamId": null,
+    "version": null
   },
   {
-    "author": "pb3n and Taranchuk",
-    "name": "Simple Warrants",
-    "steamId": "2676828755",
-    "version": "0.0.0.0"
+    "author": "PeteTimesSix",
+    "name": "Simple sidearms",
+    "steamId": "927155256",
+    "version": "1.4.6.0"
   },
   {
     "author": "Lanilor",
@@ -720,6 +708,12 @@
     "version": "2.0.10.0"
   },
   {
+    "author": "swemoney",
+    "name": "Toolkit - Channel Points",
+    "steamId": "1916651243",
+    "version": "1.5.0"
+  },
+  {
     "author": "SirRandoo",
     "name": "ToolkitUtils",
     "steamId": "2009500580",
@@ -738,12 +732,6 @@
     "version": "1.0.8847.22466"
   },
   {
-    "author": "alt4s",
-    "name": "Universal Trade Hub",
-    "steamId": "3281403886",
-    "version": "1.0.0.0"
-  },
-  {
     "author": "dismarzero",
     "name": "VGP Garden Tools",
     "steamId": null,
@@ -760,18 +748,6 @@
     "name": "Vanilla Aspirations Expanded",
     "steamId": "3268401022",
     "version": "1.0.0.0"
-  },
-  {
-    "author": "Oskar Potocki, Sarg Bjornson and Chowder",
-    "name": "Vanilla Brewing Expanded",
-    "steamId": "2186560858",
-    "version": "1.0.0.0"
-  },
-  {
-    "author": "Sarg Bjornson, Chowder and Trahspanda",
-    "name": "Vanilla Brewing Expanded - Coffees and Teas",
-    "steamId": null,
-    "version": null
   },
   {
     "author": "Oskar Potocki, Sarg Bjornson, erdelf, Roolo, Smash Phil, Taranchuk, xrushha, Kikohi and legodude17",
@@ -816,20 +792,8 @@
     "version": null
   },
   {
-    "author": "Sarg, erdelf, Oskar Potocki, Luizi and Reann Shepard",
-    "name": "Vanilla Genetics Expanded",
-    "steamId": "2801160906",
-    "version": "1.0.0.0"
-  },
-  {
     "author": "legodude17 and Oskar Potocki",
     "name": "Vanilla Outposts Expanded",
-    "steamId": null,
-    "version": null
-  },
-  {
-    "author": "Oskar Potocki and Taranchuk",
-    "name": "Vanilla Persona Weapons Expanded",
     "steamId": null,
     "version": null
   },
@@ -918,15 +882,9 @@
     "version": "1.0.0.0"
   },
   {
-    "author": "m00nl1ght",
-    "name": "Geological Landforms",
-    "steamId": "2773943594",
-    "version": "1.7.0+a8dff1767e55559fe64dec1b3aca5c261ee366c9"
-  },
-  {
-    "author": "MO",
-    "name": "Ancient urban ruins",
-    "steamId": "3316062206",
+    "author": "Redundantusage",
+    "name": "Oops All Gene Banks",
+    "steamId": "2883683444",
     "version": "1.0.0.0"
   },
   {
@@ -946,18 +904,6 @@
     "name": "Vanilla Events Expanded",
     "steamId": "1938420742",
     "version": "1.1.0"
-  },
-  {
-    "author": "Oskar Potocki, xrushha, legodude17 and Allie",
-    "name": "Vanilla Factions Expanded - Empire",
-    "steamId": "2938820380",
-    "version": "1.0.0.0"
-  },
-  {
-    "author": "Oskar Potocki, xrushha and legodude17",
-    "name": "Vanilla Factions Expanded - Deserters",
-    "steamId": "3025493377",
-    "version": "1.0.0.0"
   },
   {
     "author": "Oskar Potocki, xrushha, legodude17 and ISOREX",
@@ -1012,6 +958,12 @@
     "name": "[L] House Maid Nukos 1.5",
     "steamId": null,
     "version": null
+  },
+  {
+    "author": "Syrchalis",
+    "name": "[SYR] Harvest Yield (Continued)",
+    "steamId": "3253521389",
+    "version": "1.5.1"
   },
   {
     "author": "Krkr",
