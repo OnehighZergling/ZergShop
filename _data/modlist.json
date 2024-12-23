@@ -6,12 +6,6 @@
     "version": "2.3.1.0"
   },
   {
-    "author": "RedMattis",
-    "name": "Big and Small - Framework",
-    "steamId": "2925432336",
-    "version": "1.0.0.0"
-  },
-  {
     "author": "UnlimitedHugs",
     "name": "HugsLib",
     "steamId": "818773962",
@@ -156,12 +150,6 @@
     "version": null
   },
   {
-    "author": "【灵能罐头】",
-    "name": "Celestial Manufacturing Cooperation MKII",
-    "steamId": "2883670795",
-    "version": "1.0.0.0"
-  },
-  {
     "author": "void",
     "name": "Character Editor",
     "steamId": "1874644848",
@@ -298,12 +286,6 @@
     "name": "Gene Trader",
     "steamId": null,
     "version": null
-  },
-  {
-    "author": "m00nl1ght",
-    "name": "Geological Landforms",
-    "steamId": "2773943594",
-    "version": "1.7.0+a8dff1767e55559fe64dec1b3aca5c261ee366c9"
   },
   {
     "author": "SmArtKar",
@@ -621,7 +603,7 @@
     "author": "Jecrell",
     "name": "RimQuest (Continued)",
     "steamId": "2263331727",
-    "version": "1.5.4"
+    "version": "1.5.5"
   },
   {
     "author": "aRandomKiwi",
@@ -882,6 +864,18 @@
     "version": "1.0.0.0"
   },
   {
+    "author": "m00nl1ght",
+    "name": "Geological Landforms",
+    "steamId": "2773943594",
+    "version": "1.7.0+a8dff1767e55559fe64dec1b3aca5c261ee366c9"
+  },
+  {
+    "author": "MO",
+    "name": "Ancient urban ruins",
+    "steamId": "3316062206",
+    "version": "1.0.0.0"
+  },
+  {
     "author": "Redundantusage",
     "name": "Oops All Gene Banks",
     "steamId": "2883683444",
@@ -904,6 +898,18 @@
     "name": "Vanilla Events Expanded",
     "steamId": "1938420742",
     "version": "1.1.0"
+  },
+  {
+    "author": "Oskar Potocki, xrushha, legodude17 and Allie",
+    "name": "Vanilla Factions Expanded - Empire",
+    "steamId": "2938820380",
+    "version": "1.0.0.0"
+  },
+  {
+    "author": "Oskar Potocki, xrushha and legodude17",
+    "name": "Vanilla Factions Expanded - Deserters",
+    "steamId": "3025493377",
+    "version": "1.0.0.0"
   },
   {
     "author": "Oskar Potocki, xrushha, legodude17 and ISOREX",

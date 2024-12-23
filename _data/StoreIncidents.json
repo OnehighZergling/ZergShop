@@ -121,6 +121,11 @@
 		"karmatype": "Good"
 	},
 	{
+		"abr": "visitcolony",
+		"price": 100,
+		"karmatype": "Good"
+	},
+	{
 		"abr": "randominspire",
 		"price": 450,
 		"karmatype": "Good"
@@ -231,5 +236,5 @@
 		"karmatype": "Good"
 	}
 	],
-	"total": 46
+	"total": 47
 }
