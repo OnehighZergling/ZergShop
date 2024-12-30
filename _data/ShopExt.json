@@ -5455,7 +5455,7 @@
       },
       "description": "A baseline human, mostly unmodified by gene engineering and mostly unchanged by evolutionary pressures on non-Earth planets.",
       "defName": "Human",
-      "enabled": false,
+      "enabled": true,
       "name": "human",
       "price": 3000
     },
@@ -5486,7 +5486,7 @@
       },
       "description": "Kurin, The Three Tailed Fox.\n\n\"Kurin\" is a biological species born from genetic engineering of a prosperous glitterworld. Their DNA does not have the flaws that natural evolutionary processes have filled human DNA with. Moreover, they have great extensions to \"genetic human base\", such as three fox-like tails, fox-like ears, better sensory organs, etc. They have one of the highest quality body possible for humanoid species based on Carbon.",
       "defName": "Kurin",
-      "enabled": false,
+      "enabled": true,
       "name": "kurin",
       "price": 3000
     },
@@ -5516,7 +5516,7 @@
       },
       "description": "\"Kimiri\" is a biological species born from genetic engineering of kurinworld. Kimiris were made in kurin project of super-soldier creation, kurins are cornered, but they need a foxpower to overcome the existential war and succeed. On one of planets that kurins colonized just a little they found an interesting bipedal, oviparous species, 2~3 metres in height, with a massive tail, they had horns with ability to create powerful electric arcs and ability to navigate by feeling magnetic field of their planet. So kurins took their DNA and created the new species using kurin genetic base, just like they created lilins.",
       "defName": "Kimiri",
-      "enabled": false,
+      "enabled": true,
       "name": "kimiri",
       "price": 5000
     },
@@ -5575,7 +5575,7 @@
       },
       "description": "Yuran is an Ain race with the appearance of a rabbit, and its origin is not known precisely.\nAs a minority race with a small population, there are genetic problems and males do not exist. It continues.\nCentering on the Miko with special abilities that are passed on through blood lineage, they live in a small village-sized village and have faith in the large cherry tree in their hometown.",
       "defName": "Yuran_Race",
-      "enabled": false,
+      "enabled": true,
       "name": "Yuran",
       "price": 3000
     },
@@ -5727,7 +5727,7 @@
       },
       "description": "A mutant of the catgirl species that has developed a semblance of intelligence.",
       "defName": "MG_Catgirl",
-      "enabled": false,
+      "enabled": true,
       "name": "Catgirl",
       "price": 3000
     },
@@ -5758,7 +5758,7 @@
       },
       "description": "A mutant of the wolfgirl species that has developed a semblance of intelligence.",
       "defName": "MG_Wolfgirl",
-      "enabled": false,
+      "enabled": true,
       "name": "Wolfgirl",
       "price": 3000
     },
@@ -5789,7 +5789,7 @@
       },
       "description": "A mutant of the foxgirl species that has developed a semblance of intelligence.",
       "defName": "MG_Foxgirl",
-      "enabled": false,
+      "enabled": true,
       "name": "Foxgirl",
       "price": 3000
     },
@@ -5820,7 +5820,7 @@
       },
       "description": "A Cowgirl that has developed a semblance of intelligence.",
       "defName": "MG_Cowgirl",
-      "enabled": false,
+      "enabled": true,
       "name": "Cowgirl",
       "price": 3000
     },
@@ -5851,7 +5851,7 @@
       },
       "description": "A Harpy that has developed a semblance of intelligence.",
       "defName": "MG_Harpy",
-      "enabled": false,
+      "enabled": true,
       "name": "Harpy",
       "price": 3000
     },
@@ -5882,7 +5882,7 @@
       },
       "description": "A mutant accumulation of slimy liquid that has developed a semblance of intelligence.",
       "defName": "MG_Slime",
-      "enabled": false,
+      "enabled": true,
       "name": "Slime",
       "price": 3000
     },
@@ -5914,7 +5914,7 @@
       },
       "description": "A Baphomet that has developed a semblance of intelligence.",
       "defName": "MG_Baphomet",
-      "enabled": false,
+      "enabled": true,
       "name": "Baphomet",
       "price": 3000
     },
@@ -5945,7 +5945,7 @@
       },
       "description": "A Centaur that has developed a semblance of intelligence.",
       "defName": "MG_Centaur",
-      "enabled": false,
+      "enabled": true,
       "name": "Centaur",
       "price": 3000
     },
@@ -6009,7 +6009,7 @@
       },
       "description": "A mutant of the Ice Fairy species that has developed a semblance of intelligence./n A fragile existence that cannot survive warm temperatures.",
       "defName": "MG_IceFairy",
-      "enabled": false,
+      "enabled": true,
       "name": "IceFairy",
       "price": 3000
     },
@@ -6041,7 +6041,7 @@
       },
       "description": "A mutant of the Dragon species that has developed a semblance of intelligence.",
       "defName": "MG_Dragon",
-      "enabled": false,
+      "enabled": true,
       "name": "Dragon",
       "price": 5000
     },
@@ -6073,7 +6073,7 @@
       },
       "description": "A mutant of the Thrumbogirl species that has developed a semblance of intelligence.",
       "defName": "MG_Thrumbogirl",
-      "enabled": false,
+      "enabled": true,
       "name": "Thrumbogirl",
       "price": 5000
     },
@@ -6110,7 +6110,7 @@
       },
       "description": "It is a human like a rodent gene. Although the origin is unknown, it is a monarchy society based on agricultural society. There are more female objects than males, and it is difficult to distinguish the gender of the object when viewed from the outside.",
       "defName": "Ratkin",
-      "enabled": false,
+      "enabled": true,
       "name": "Ratkin",
       "price": 3333
     },
@@ -6184,7 +6184,7 @@
       },
       "description": "The Marvelous gift of glitterworld bionics. A humanoid with cat ears and a tail.",
       "defName": "Alien_Nyaron",
-      "enabled": false,
+      "enabled": true,
       "name": "Nyaron",
       "price": 5000
     },
@@ -6242,7 +6242,7 @@
       },
       "description": "An ancient species that soars through the skies, the elves of the heavens, known as Milira. Characterized by their pure white wings and the diverse auras that crown their heads, they are often mistaken for angels and have been worshipped by many humans.\n\n      In the distant past, the Milira were strong and warlike. They seemed to be born for battle, relying on their innate combat instincts and superior physical capabilities. They excelled at using swift and fierce close combat, as well as devastating spells to shatter their enemies, thus dominating their realm.\n      \n      However, after vanquishing all their formidable foes, the Milira gradually lost the meaning of battle. The race needed to find a new purpose for existence. But with their exceedingly long lifespans, the Milira's interest in anything could be worn away by the passage of time, leaving only the unfathomable sea of knowledge that continually drew them to explore.\n      \n      Gradually, the Milira ceased to yearn for battle and began to pursue knowledge. They collected languages and texts from various races, observed every corner of the world; built floating cities, and established libraries to store their accumulating wisdom. Over time, the combat skills of the Milira were buried deep in the collective memory, covered by layer upon layer of fertile soil called knowledge.\n      \n      The Milira had a long period of friendly relations with humans and occasionally guided them in the development of science and technology. However, after a certain incident, the Milira became enemies with humans, and the clouds of war gradually enveloped everyone. A conflict seemed inevitable...",
       "defName": "Milira_Race",
-      "enabled": false,
+      "enabled": true,
       "name": "Milira",
       "price": 5000
     },
