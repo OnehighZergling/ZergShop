@@ -91,6 +91,16 @@
 		"karmatype": "Good"
 	},
 	{
+		"abr": "raid",
+		"price": 1500,
+		"karmatype": "Bad"
+	},
+	{
+		"abr": "sapperraid",
+		"price": 1500,
+		"karmatype": "Neutral"
+	},
+	{
 		"abr": "reviveanypawn",
 		"price": 1200,
 		"karmatype": "Good"
@@ -236,5 +246,5 @@
 		"karmatype": "Good"
 	}
 	],
-	"total": 47
+	"total": 49
 }
