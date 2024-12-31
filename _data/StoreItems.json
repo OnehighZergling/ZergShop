@@ -766,7 +766,7 @@
       "abr": "kibble",
       "category": "Foods",
       "defname": "Kibble",
-      "price": -10
+      "price": 2
     },
     {
       "abr": "pemmican",
@@ -6970,31 +6970,31 @@
       "abr": "yuranrabbitstatue(recovery)",
       "category": "Yuran rabbit statue",
       "defname": "YR_ManekiUsagi_Heal",
-      "price": 2
+      "price": 2000
     },
     {
       "abr": "yuranrabbitstatue(crafting)",
       "category": "Yuran rabbit statue",
       "defname": "YR_ManekiUsagi_Craft",
-      "price": 2
+      "price": 2000
     },
     {
       "abr": "yuranrabbitstatue(goodharvest)",
       "category": "Yuran rabbit statue",
       "defname": "YR_ManekiUsagi_Plant",
-      "price": 2
+      "price": 2000
     },
     {
       "abr": "yuranrabbitstatue(stable)",
       "category": "Yuran rabbit statue",
       "defname": "YR_ManekiUsagi_Stability",
-      "price": 2
+      "price": 2000
     },
     {
       "abr": "yuranrabbitstatue(immunity)",
       "category": "Yuran rabbit statue",
       "defname": "YR_ManekiUsagi_Immunity",
-      "price": 2
+      "price": 2000
     },
     {
       "abr": "proofofcontract(raccoonshikigami)",
@@ -18479,7 +18479,961 @@
       "category": "Misc",
       "defname": "Zombrella",
       "price": -10
+    },
+    {
+      "abr": "<color=#1dd5ee><i>ky-01manchanitorbrainchip</i></color>",
+      "category": "Prosthetic",
+      "defname": "KaiYangChip",
+      "price": 5333
+    },
+    {
+      "abr": "<color=#ffaa00><i>anti-entropysword</i></color>",
+      "category": "CMC Weapons",
+      "defname": "CMC_EMPsword_sevenstars",
+      "price": 6167
+    },
+    {
+      "abr": "<color=#ffaa00><i>personaceletechblade</i></color>",
+      "category": "CMC Weapons",
+      "defname": "TangDaoPersona",
+      "price": 9542
+    },
+    {
+      "abr": "<color=#ffaa00><i>qbz-101ae-xmem-rifle</i></color>",
+      "category": "CMC Weapons",
+      "defname": "QBZoneooneXuanMing_Elite",
+      "price": 22925
+    },
+    {
+      "abr": "<color=#ffaa00><i>qbzl-823taotieiiparticlelance</i></color>",
+      "category": "CMC Weapons",
+      "defname": "CMC_TaoTie_Persona",
+      "price": 19942
+    },
+    {
+      "abr": "<color=#ffaa00><i>qlu-x-zhiipulsecannon</i></color>",
+      "category": "CMC Weapons",
+      "defname": "QLUX_Pulse_Projector_Persona",
+      "price": 15517
+    },
+    {
+      "abr": "absinthe",
+      "category": "Alcohol",
+      "defname": "AYAbsinthe",
+      "price": -10
+    },
+    {
+      "abr": "absinthemash",
+      "category": "Apothecary products",
+      "defname": "AYAbsintheMash",
+      "price": -10
+    },
+    {
+      "abr": "aloecream",
+      "category": "Ointments",
+      "defname": "AYAloeCream",
+      "price": -10
+    },
+    {
+      "abr": "aloeleaves",
+      "category": "Apothecary plant matter",
+      "defname": "AYAloeLeaves",
+      "price": -10
+    },
+    {
+      "abr": "aloeoil",
+      "category": "Oil Extracts",
+      "defname": "AYAloeOil",
+      "price": -10
+    },
+    {
+      "abr": "ammoniawater",
+      "category": "Apothecary products",
+      "defname": "AYAmmoniaWater",
+      "price": -10
+    },
+    {
+      "abr": "apothecaryhat",
+      "category": "Headgear",
+      "defname": "AYapothecaryhat",
+      "price": -10
+    },
+    {
+      "abr": "apothecaryrobe",
+      "category": "Apparel",
+      "defname": "AYapothecaryOutfit",
+      "price": -10
+    },
+    {
+      "abr": "apothecarytable",
+      "category": "Production",
+      "defname": "AYApothecaryTable",
+      "price": -10
+    },
+    {
+      "abr": "barrel(saltedmeat)",
+      "category": "Apothecary products",
+      "defname": "AYBarrelSaltedMeat",
+      "price": -10
+    },
+    {
+      "abr": "batsculpture",
+      "category": "Lime plaster art",
+      "defname": "AYPlasterBat",
+      "price": -10
+    },
+    {
+      "abr": "belladonnaberries",
+      "category": "Apothecary plant matter",
+      "defname": "AYBelladonnaBerries",
+      "price": -10
+    },
+    {
+      "abr": "birdbath",
+      "category": "Lime plaster art",
+      "defname": "AYPlasterBirdBath",
+      "price": -10
+    },
+    {
+      "abr": "bucket(rocksalt)",
+      "category": "Apothecary products",
+      "defname": "AYSalt_Bucket",
+      "price": -10
+    },
+    {
+      "abr": "bucket(woodash)",
+      "category": "Apothecary products",
+      "defname": "AYWoodAsh_Bucket",
+      "price": -10
+    },
+    {
+      "abr": "calciumcarbonate",
+      "category": "Apothecary products",
+      "defname": "AYCalciumCarbonate",
+      "price": -10
+    },
+    {
+      "abr": "candle",
+      "category": "Furniture",
+      "defname": "AYCandle",
+      "price": -10
+    },
+    {
+      "abr": "castingtable",
+      "category": "Production",
+      "defname": "AYCastArtTable",
+      "price": -10
+    },
+    {
+      "abr": "celetechblade",
+      "category": "CMC Weapons",
+      "defname": "TangDao",
+      "price": 3433
+    },
+    {
+      "abr": "celetechmoodbooster",
+      "category": "Recreation",
+      "defname": "CMC_DECO_WIFI",
+      "price": 1333
+    },
+    {
+      "abr": "celetechδnano-uniform",
+      "category": "Armor",
+      "defname": "CMC_Uniform",
+      "price": 1775
+    },
+    {
+      "abr": "celetechδoperatorhood",
+      "category": "Headgear",
+      "defname": "CMChelmet_Hood",
+      "price": 2683
+    },
+    {
+      "abr": "celetechδoperatornano-armor",
+      "category": "Armor",
+      "defname": "CMC_Uniform_MKII",
+      "price": 2683
+    },
+    {
+      "abr": "charcoal",
+      "category": "Apothecary products",
+      "defname": "AYCharcoal",
+      "price": -10
+    },
+    {
+      "abr": "charcoal(ammoniatreated)",
+      "category": "Apothecary products",
+      "defname": "AYAmmoniaCharcoal",
+      "price": -10
+    },
+    {
+      "abr": "charcoalbrazier",
+      "category": "Production",
+      "defname": "AYBrazier",
+      "price": -10
+    },
+    {
+      "abr": "charcoalsmithy",
+      "category": "Production",
+      "defname": "AYCharcoalSmithy",
+      "price": -10
+    },
+    {
+      "abr": "charcoalstove",
+      "category": "Production",
+      "defname": "AYCharcoalStove",
+      "price": -10
+    },
+    {
+      "abr": "cinchonabark",
+      "category": "Apothecary plant matter",
+      "defname": "AYCinchonaBark",
+      "price": -10
+    },
+    {
+      "abr": "cinchonapowder",
+      "category": "Powders",
+      "defname": "AYCinchonaPowder",
+      "price": -10
+    },
+    {
+      "abr": "clotheswashingtub",
+      "category": "Production",
+      "defname": "AYApparelWashingTub",
+      "price": -10
+    },
+    {
+      "abr": "cmchelmet-m",
+      "category": "Headgear",
+      "defname": "CMChelmetM",
+      "price": 2308
+    },
+    {
+      "abr": "cmchelmet-r",
+      "category": "Headgear",
+      "defname": "CMChelmet",
+      "price": 2150
+    },
+    {
+      "abr": "coarserocksalt",
+      "category": "Apothecary products",
+      "defname": "AYSalt",
+      "price": -10
+    },
+    {
+      "abr": "elixirofcalming",
+      "category": "Elixirs",
+      "defname": "AYElixirCalming",
+      "price": 38
+    },
+    {
+      "abr": "elixirofinciting",
+      "category": "Elixirs",
+      "defname": "AYElixirInciting",
+      "price": 48
+    },
+    {
+      "abr": "elixiroflucidity",
+      "category": "Elixirs",
+      "defname": "AYElixirLucidity",
+      "price": 27
+    },
+    {
+      "abr": "elixirofsoothing",
+      "category": "Elixirs",
+      "defname": "AYElixirSoothing",
+      "price": 30
+    },
+    {
+      "abr": "ff120rocketlauncher",
+      "category": "CMC Weapons",
+      "defname": "CMC_RocketLauncher",
+      "price": 1308
+    },
+    {
+      "abr": "fire-controlradar",
+      "category": "Misc",
+      "defname": "CMC_FCradar",
+      "price": 2108
+    },
+    {
+      "abr": "flutonic",
+      "category": "Tonics",
+      "defname": "AYFluTonic",
+      "price": 37
+    },
+    {
+      "abr": "forcefieldgenerator",
+      "category": "Security",
+      "defname": "CMCShieldGenerator",
+      "price": 3333
+    },
+    {
+      "abr": "garlicbulbs",
+      "category": "Apothecary plant matter",
+      "defname": "AYGarlicBulb",
+      "price": -10
+    },
+    {
+      "abr": "garlicpowder",
+      "category": "Powders",
+      "defname": "AYGarlicPowder",
+      "price": -10
+    },
+    {
+      "abr": "gingerpowder",
+      "category": "Powders",
+      "defname": "AYGingerPowder",
+      "price": -10
+    },
+    {
+      "abr": "gingerroot",
+      "category": "Apothecary plant matter",
+      "defname": "AYGingerRoot",
+      "price": -10
+    },
+    {
+      "abr": "gingertea",
+      "category": "Herbal Teas",
+      "defname": "AYGingerTea",
+      "price": 9
+    },
+    {
+      "abr": "ginkgoleaves",
+      "category": "Apothecary plant matter",
+      "defname": "AYGinkgoLeaves",
+      "price": -10
+    },
+    {
+      "abr": "ginkgopowder",
+      "category": "Powders",
+      "defname": "AYGinkgoPowder",
+      "price": -10
+    },
+    {
+      "abr": "ginkgoseeds",
+      "category": "Apothecary plant matter",
+      "defname": "AYGinkgoSeeds",
+      "price": -10
+    },
+    {
+      "abr": "ginsengpowder",
+      "category": "Powders",
+      "defname": "AYGinsengPowder",
+      "price": -10
+    },
+    {
+      "abr": "ginsengroot",
+      "category": "Apothecary plant matter",
+      "defname": "AYGinsengRoot",
+      "price": -10
+    },
+    {
+      "abr": "ginsengtea",
+      "category": "Herbal Teas",
+      "defname": "AYGinsengTea",
+      "price": 12
+    },
+    {
+      "abr": "hay(ammoniatreated)",
+      "category": "Foods",
+      "defname": "AYAmmoniaHay",
+      "price": -10
+    },
+    {
+      "abr": "henbanejoint",
+      "category": "Smokes",
+      "defname": "AYHenbaneJoint",
+      "price": -10
+    },
+    {
+      "abr": "henbaneleaves",
+      "category": "Apothecary plant matter",
+      "defname": "AYHenbaneLeaves",
+      "price": -10
+    },
+    {
+      "abr": "henbaneoil",
+      "category": "Oil Extracts",
+      "defname": "AYHenbaneOil",
+      "price": -10
+    },
+    {
+      "abr": "henbanepowder",
+      "category": "Powders",
+      "defname": "AYHenbanePowder",
+      "price": -10
+    },
+    {
+      "abr": "henbanetea",
+      "category": "Herbal Teas",
+      "defname": "AYHenbaneTea",
+      "price": 8
+    },
+    {
+      "abr": "herbalisthat",
+      "category": "Headgear",
+      "defname": "AYHerbalistHat",
+      "price": -10
+    },
+    {
+      "abr": "herbalistrobe",
+      "category": "Apparel",
+      "defname": "AYHerbalistOutfit",
+      "price": -10
+    },
+    {
+      "abr": "hj-53atgmlauncher",
+      "category": "CMC Weapons",
+      "defname": "CMC_HJX_ATGM",
+      "price": 4833
+    },
+    {
+      "abr": "kaleleaves",
+      "category": "Apothecary plant matter",
+      "defname": "AYKaleLeaves",
+      "price": -10
+    },
+    {
+      "abr": "kalepowder",
+      "category": "Powders",
+      "defname": "AYKalePowder",
+      "price": -10
+    },
+    {
+      "abr": "kaletea",
+      "category": "Herbal Teas",
+      "defname": "AYKaleTea",
+      "price": 5
+    },
+    {
+      "abr": "largecastingtable",
+      "category": "Production",
+      "defname": "AYLargeCastArtTable",
+      "price": -10
+    },
+    {
+      "abr": "largeedgysculpture",
+      "category": "Lime plaster art",
+      "defname": "AYPlasterLargeEdgy",
+      "price": -10
+    },
+    {
+      "abr": "largeowlysculpture",
+      "category": "Lime plaster art",
+      "defname": "AYPlasterLargeOwly",
+      "price": -10
+    },
+    {
+      "abr": "lavenderbalm",
+      "category": "Ointments",
+      "defname": "AYLavenderBalm",
+      "price": -10
+    },
+    {
+      "abr": "lavenderflowers",
+      "category": "Apothecary plant matter",
+      "defname": "AYLavenderFlowers",
+      "price": -10
+    },
+    {
+      "abr": "lavenderoil",
+      "category": "Oil Extracts",
+      "defname": "AYLavenderOil",
+      "price": -10
+    },
+    {
+      "abr": "lavendersoap",
+      "category": "Ointments",
+      "defname": "AYLavenderSoap",
+      "price": -10
+    },
+    {
+      "abr": "limeplasterblocks",
+      "category": "Stone blocks",
+      "defname": "BlocksAYLimePlaster",
+      "price": -10
+    },
+    {
+      "abr": "limewater",
+      "category": "Apothecary products",
+      "defname": "AYLimewater",
+      "price": -10
+    },
+    {
+      "abr": "nettlehemp",
+      "category": "Textiles",
+      "defname": "AYNettleHemp",
+      "price": -10
+    },
+    {
+      "abr": "nettleleaves",
+      "category": "Apothecary plant matter",
+      "defname": "AYNettleLeaves",
+      "price": -10
+    },
+    {
+      "abr": "nettlepowder",
+      "category": "Powders",
+      "defname": "AYNettlePowder",
+      "price": -10
+    },
+    {
+      "abr": "nettletea",
+      "category": "Herbal Teas",
+      "defname": "AYNettleTea",
+      "price": 6
+    },
+    {
+      "abr": "neuralbooster",
+      "category": "Misc",
+      "defname": "CMC_AoEbooster",
+      "price": 2942
+    },
+    {
+      "abr": "neutroniumsword",
+      "category": "CMC Weapons",
+      "defname": "CMC_EMPsword",
+      "price": 3800
+    },
+    {
+      "abr": "planter",
+      "category": "Lime plaster art",
+      "defname": "AYPlasterPlanter",
+      "price": -10
+    },
+    {
+      "abr": "portablefissionreactor",
+      "category": "Special",
+      "defname": "CMCPowerCellSmall",
+      "price": 167
+    },
+    {
+      "abr": "potash",
+      "category": "Apothecary products",
+      "defname": "AYPotash",
+      "price": -10
+    },
+    {
+      "abr": "pottingcompost",
+      "category": "Apothecary products",
+      "defname": "AYCompost",
+      "price": -10
+    },
+    {
+      "abr": "pottingmix",
+      "category": "Apothecary products",
+      "defname": "AYPottingMix",
+      "price": -10
+    },
+    {
+      "abr": "preservemix",
+      "category": "Apothecary products",
+      "defname": "AYPreserveMix",
+      "price": -10
+    },
+    {
+      "abr": "preservingbarrel",
+      "category": "Production",
+      "defname": "AYPreserveBarrel",
+      "price": -10
+    },
+    {
+      "abr": "prototype-xhflameblaster",
+      "category": "CMC Weapons",
+      "defname": "PrototypeXiHe",
+      "price": 3392
+    },
+    {
+      "abr": "qbb-59qllmg",
+      "category": "CMC Weapons",
+      "defname": "QBB_fivenine",
+      "price": 2275
+    },
+    {
+      "abr": "qbb-85xsmartlmg",
+      "category": "CMC Weapons",
+      "defname": "W85XWJ",
+      "price": 3950
+    },
+    {
+      "abr": "qbu-301csniper",
+      "category": "CMC Weapons",
+      "defname": "QBU_TOOE",
+      "price": 1500
+    },
+    {
+      "abr": "qbu-66chargedsniper",
+      "category": "CMC Weapons",
+      "defname": "QBU_sixsix",
+      "price": 2267
+    },
+    {
+      "abr": "qbu-71smartsniper",
+      "category": "CMC Weapons",
+      "defname": "CMC_QBU71S",
+      "price": 4325
+    },
+    {
+      "abr": "qbu-71-jwtacticalsniper",
+      "category": "CMC Weapons",
+      "defname": "QBU71_QS",
+      "price": 6700
+    },
+    {
+      "abr": "qbu-85sfsmartsniper(incendiary)",
+      "category": "CMC Weapons",
+      "defname": "CMC_QBUS85X_Flame",
+      "price": 4508
+    },
+    {
+      "abr": "qbul-56particlebeamsniper",
+      "category": "CMC Weapons",
+      "defname": "CMC_Shaped_Laser_Sniper",
+      "price": 5400
+    },
+    {
+      "abr": "qbx-57csmartshotgun",
+      "category": "CMC Weapons",
+      "defname": "CMC_QBXfiveseven_CSG",
+      "price": 1025
+    },
+    {
+      "abr": "qbx-99sshotgun",
+      "category": "CMC Weapons",
+      "defname": "CMC_QBXninenine_CSG",
+      "price": 1025
+    },
+    {
+      "abr": "qbz-101c-xmem-rifle",
+      "category": "CMC Weapons",
+      "defname": "QBZoneooneXuanMing",
+      "price": 12850
+    },
+    {
+      "abr": "qbz-59qlassaultrifle",
+      "category": "CMC Weapons",
+      "defname": "QBZ_fivenine",
+      "price": 2125
+    },
+    {
+      "abr": "qbz-59xassaultrifle",
+      "category": "CMC Weapons",
+      "defname": "QBZ_fivenine_MOD_X",
+      "price": 1425
+    },
+    {
+      "abr": "qbz-71hsmartcombatrifle",
+      "category": "CMC Weapons",
+      "defname": "QBZ71_QS",
+      "price": 967
+    },
+    {
+      "abr": "qbz-95ceassaultrifle",
+      "category": "CMC Weapons",
+      "defname": "QBZ_threeooE",
+      "price": 1442
+    },
+    {
+      "abr": "qbzl-102pshenlonglmg",
+      "category": "CMC Weapons",
+      "defname": "CMC_ShenLongLaserLMG",
+      "price": 5400
+    },
+    {
+      "abr": "qbzl-55particlebeamrifle",
+      "category": "CMC Weapons",
+      "defname": "CMC_ShapedLaserRifle",
+      "price": 3392
+    },
+    {
+      "abr": "qbzl-79plmg",
+      "category": "CMC Weapons",
+      "defname": "CMC_PLaserLMG",
+      "price": 5400
+    },
+    {
+      "abr": "qbzl-79psmg",
+      "category": "CMC Weapons",
+      "defname": "CMC_PLaserSMG",
+      "price": 2800
+    },
+    {
+      "abr": "qbzl-822taotieinfernolance",
+      "category": "CMC Weapons",
+      "defname": "CMC_TaoTie",
+      "price": 9833
+    },
+    {
+      "abr": "qbzs-85xsmartsniper",
+      "category": "CMC Weapons",
+      "defname": "QBUS85XWJ",
+      "price": 4717
+    },
+    {
+      "abr": "ql-40grenadelauncher",
+      "category": "CMC Weapons",
+      "defname": "CMC_GrenadeLauncher",
+      "price": 1783
+    },
+    {
+      "abr": "qlu-xpulsecannon",
+      "category": "CMC Weapons",
+      "defname": "QLUX_Pulse_Projector",
+      "price": 8792
+    },
+    {
+      "abr": "qs-aanti-personnelturret",
+      "category": "Security",
+      "defname": "CMC_CSGTurret",
+      "price": 1675
+    },
+    {
+      "abr": "qs-bsniperturret",
+      "category": "Security",
+      "defname": "CMC_CSGTurret_B",
+      "price": 1675
+    },
+    {
+      "abr": "qsc-79ppistol",
+      "category": "CMC Weapons",
+      "defname": "CMM_PLaserpistol",
+      "price": 1933
+    },
+    {
+      "abr": "qsz-57pdw",
+      "category": "CMC Weapons",
+      "defname": "CMC_QSZfiveseven",
+      "price": 858
+    },
+    {
+      "abr": "qsz-85xsmartsmg",
+      "category": "CMC Weapons",
+      "defname": "QBZS85XWJ",
+      "price": 3692
+    },
+    {
+      "abr": "quininetea",
+      "category": "Herbal Teas",
+      "defname": "AYQuinineTea",
+      "price": 7
+    },
+    {
+      "abr": "salammoniac",
+      "category": "Apothecary products",
+      "defname": "AYSalAmmoniac",
+      "price": -10
+    },
+    {
+      "abr": "saltedmeat",
+      "category": "Apothecary products",
+      "defname": "AYSaltedMeat",
+      "price": -10
+    },
+    {
+      "abr": "scarcream",
+      "category": "Ointments",
+      "defname": "AYScarCream",
+      "price": -10
+    },
+    {
+      "abr": "smellingsalts",
+      "category": "Salts",
+      "defname": "AYSmellingSalts",
+      "price": -10
+    },
+    {
+      "abr": "stjohnswortflowers",
+      "category": "Apothecary plant matter",
+      "defname": "AYStJohnsWortFlowers",
+      "price": -10
+    },
+    {
+      "abr": "stjohnswortoil",
+      "category": "Oil Extracts",
+      "defname": "AYStJohnsWortOil",
+      "price": -10
+    },
+    {
+      "abr": "staraniseflowers",
+      "category": "Apothecary plant matter",
+      "defname": "AYStarAniseFlowers",
+      "price": 3
+    },
+    {
+      "abr": "staraniseoil",
+      "category": "Oil Extracts",
+      "defname": "AYStarAniseOil",
+      "price": 13
+    },
+    {
+      "abr": "stellarportal",
+      "category": "Security",
+      "defname": "CMC_StellarPortal",
+      "price": 68
+    },
+    {
+      "abr": "stomachsalts",
+      "category": "Salts",
+      "defname": "AYStomachSalts",
+      "price": 12
+    },
+    {
+      "abr": "tallow",
+      "category": "Apothecary products",
+      "defname": "AYTallow",
+      "price": -10
+    },
+    {
+      "abr": "tianjichip",
+      "category": "Prosthetic",
+      "defname": "TianJiChip",
+      "price": 5000
+    },
+    {
+      "abr": "tianquanchip",
+      "category": "Prosthetic",
+      "defname": "TianQuanChip",
+      "price": 2500
+    },
+    {
+      "abr": "tianshuchip",
+      "category": "Prosthetic",
+      "defname": "TianShuChip",
+      "price": 5333
+    },
+    {
+      "abr": "tianxuanchip",
+      "category": "Prosthetic",
+      "defname": "TianXuanChip",
+      "price": 5000
+    },
+    {
+      "abr": "treatedherbalmedicine",
+      "category": "Medicine",
+      "defname": "AYTreatedMedHerb",
+      "price": -10
+    },
+    {
+      "abr": "turmericpowder",
+      "category": "Powders",
+      "defname": "AYTurmericPowder",
+      "price": -10
+    },
+    {
+      "abr": "turmericroots",
+      "category": "Apothecary plant matter",
+      "defname": "AYTurmericRoot",
+      "price": -10
+    },
+    {
+      "abr": "turmerictea",
+      "category": "Herbal Teas",
+      "defname": "AYTurmericTea",
+      "price": 12
+    },
+    {
+      "abr": "uavlink",
+      "category": "Headgear",
+      "defname": "CMC_LaserDrone",
+      "price": 1450
+    },
+    {
+      "abr": "whitewillowbark",
+      "category": "Apothecary plant matter",
+      "defname": "AYWhiteWillowBark",
+      "price": -10
+    },
+    {
+      "abr": "whitewillowpowder",
+      "category": "Powders",
+      "defname": "AYWhiteWillowPowder",
+      "price": -10
+    },
+    {
+      "abr": "willowtonic",
+      "category": "Tonics",
+      "defname": "AYWillowTonic",
+      "price": -10
+    },
+    {
+      "abr": "woodashes",
+      "category": "Apothecary products",
+      "defname": "AYWoodAshes",
+      "price": -10
+    },
+    {
+      "abr": "wormwoodleaves",
+      "category": "Apothecary plant matter",
+      "defname": "AYWormwoodLeaves",
+      "price": -10
+    },
+    {
+      "abr": "wormwoodoil",
+      "category": "Oil Extracts",
+      "defname": "AYWormwoodOil",
+      "price": -10
+    },
+    {
+      "abr": "wormwoodtonic",
+      "category": "Tonics",
+      "defname": "AYWormwoodTonic",
+      "price": 18
+    },
+    {
+      "abr": "xg-apoweredarmor",
+      "category": "Armor",
+      "defname": "CMC_HPA_Base",
+      "price": 4633
+    },
+    {
+      "abr": "xg-mpoweredarmor",
+      "category": "Armor",
+      "defname": "CMC_HPA_Mech",
+      "price": 5467
+    },
+    {
+      "abr": "yaoguangchip",
+      "category": "Prosthetic",
+      "defname": "YaoGuangChip",
+      "price": -10
+    },
+    {
+      "abr": "yarrowbandages",
+      "category": "Medicine",
+      "defname": "AYYarrowBandage",
+      "price": -10
+    },
+    {
+      "abr": "yarrowcream",
+      "category": "Ointments",
+      "defname": "AYYarrowCream",
+      "price": -10
+    },
+    {
+      "abr": "yarrowmaterial",
+      "category": "Apothecary plant matter",
+      "defname": "AYYarrowMaterial",
+      "price": -10
+    },
+    {
+      "abr": "yarrowoil",
+      "category": "Oil Extracts",
+      "defname": "AYYarrowOil",
+      "price": -10
+    },
+    {
+      "abr": "yuhengchip",
+      "category": "Prosthetic",
+      "defname": "YuHengChip",
+      "price": 5000
+    },
+    {
+      "abr": "zero-pointreactor",
+      "category": "Special",
+      "defname": "CMC_ZPReactor",
+      "price": 8333
     }
   ],
-  "total": 3080
+  "total": 3239
 }
