@@ -86,14 +86,14 @@
 		"karmatype": "Good"
 	},
 	{
+		"abr": "militaryaid",
+		"price": 700,
+		"karmatype": "Good"
+	},
+	{
 		"abr": "raid",
 		"price": 1500,
 		"karmatype": "Bad"
-	},
-	{
-		"abr": "sapperraid",
-		"price": 1500,
-		"karmatype": "Neutral"
 	},
 	{
 		"abr": "reviveanypawn",
